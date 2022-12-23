@@ -1,0 +1,46 @@
+@font-face {
+  font-family: "Roboto-Black";
+  src: url(../fonts/roboto/Roboto-Black.ttf);
+}
+@font-face {
+  font-family: "Roboto";
+  src: url(../fonts/roboto/Roboto-Regular.ttf);
+}
+body p {
+  font-family: "Roboto";
+  font-size: 1.1em;
+  text-transform: initial;
+}
+
+body h1, h2, h3, h4, h5 {
+  font-family: "Roboto-Black";
+}
+
+#navbar-top {
+  background-color: #fff !important;
+}
+
+#navbar-main {
+  background-color: rgba(0, 0, 0, 0.791) !important;
+  border-radius: 0 0 20px 20px;
+}
+
+nav#block-blogs-portal-main-menu ul li a {
+  color: #fff;
+}
+
+/* 
+account menu
+ */
+section.row.region.region-secondary-menu {
+  width: 100%;
+}
+
+div#block-pakistanblogs img {
+  width: 50%;
+  height: auto;
+}
+
+div#block-pakistanblogs h2 {
+  margin: 3% 0 6% 0;
+}/*# sourceMappingURL=design.css.map */
