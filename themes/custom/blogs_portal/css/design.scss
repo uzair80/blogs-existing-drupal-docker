@@ -34,9 +34,21 @@ body h1,h2,h3,h4,h5 {
 // scss design
 
 
-$full_width: 100%;
-$custom_width: 50%;
-$height_auto:auto;
+$full_width: 100%; // image width
+$custom_width: 80%; // div width
+$height_auto:auto; // image height
+$logo_width: 10%;
+$image_height: 300px; 
+
+
+
+/*
+My Logo
+*/
+.navbar-brand {
+  width: $logo_width;
+}
+
 
 
 // Top navbar
@@ -76,16 +88,29 @@ section.row.region.region-secondary-menu {
 // Pakistan Blogs Page
 
 
-div#block-pakistanblogs img {
+#block-blogs-portal-content img {
 
   width: $custom_width;
   height: $height_auto;
 
 }
 
-div#block-pakistanblogs h2 {
+#block-blogs-portal-content h2 {
 
   margin: 3% 0 6% 0;
 
+
+}
+
+/*
+
+You may like
+
+*/
+
+.you-may-like img {
+
+width: $full_width;
+height:$image_height;
 
 }

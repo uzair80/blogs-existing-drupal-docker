@@ -49,14 +49,14 @@
 {% block paragraph %}
   <div{{ attributes.addClass(classes) }}>
     {% block content %}
-      {# {{ content }} #}
-      <div class = "row">
+      {{ content }}
+      {# <div class = "row">
       <div class = "col-lg-7 col-md-5 col-sm-12 offset-lg-2">
       {{ content.field_heading }}
       {{ content.field_image_ }}
       {{ content.field_description_2 }}
       </div>
-      </div>
+      </div> #}
     {% endblock %}
   </div>
 {% endblock paragraph %}
