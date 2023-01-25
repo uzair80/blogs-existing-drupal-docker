@@ -1,0 +1,7 @@
+name: Welcome Module
+type: module
+description: "My First Drupal Module"
+package: Custom
+core: '8.x'
+# version: 1.0
+core_version_requirement: ^8 || ^9

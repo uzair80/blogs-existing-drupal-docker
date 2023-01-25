@@ -1,0 +1,21 @@
+# welcome_module.welcome:
+#   path:  '/welcomemodule'
+#   defaults:
+#     _controller:  '\Drupal\welcome_module\Controller\WelcomeController::welcome'
+#     _title: 'My first Page and menu item'
+#   requirements:
+#     _permission:  'access content'
+
+# welcome_module.information:
+#   path: '/information'
+#   defaults: 
+#     _controller: '\Drupal\welcome_module\Controller\WelcomeController::information'
+#   requirements:
+#     _permission: 'access content'
+
+# welcome_module.form:
+#   path: '/form'
+#   defaults:
+#     _controller: '\Drupal\welcome_module\Controller\WelcomeController::form'
+#   requirements: 
+#     _permission: 'access content'

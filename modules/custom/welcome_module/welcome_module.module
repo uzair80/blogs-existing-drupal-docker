@@ -1,0 +1,102 @@
+<?php
+
+/*
+Implementation of hook_form_alter
+*/
+
+// use \Drupal\Core\Form\FormStateInterface;
+
+// function welcome_module_form_alter(&$form, \Drupal\Core\Form\FormStateInterface $form_state, $form_id)
+// {
+//     if ($form_id == 'comment_comment_form') {
+//         $form['actions']['submit']['#value'] = 'Comment';
+//     }
+// }
+
+
+// function welcome_module_theme($existing, $theme, $type, $path)
+// {
+//     return [
+
+//         'information_page' => [
+
+//             'variables' => [
+
+//                 'items' => [],
+//                 'title' => ''
+//             ]
+//         ]
+//     ];
+// }
+
+// function welcome_module_form_alter(&$form, \Drupal\Core\Form\FormStateInterface $form_state, $form_id)
+// {
+//     if ($form_id == 'node_type_add_form') {
+
+//        $form['display']['display_submitted']['#default_value'] = 0;
+//        $form['display']['display_submitted']['#description'] = "This is a drupal form";
+//     }
+// }
+
+
+
+// function welcome_module_form_alter(&$form, \Drupal\Core\Form\FormStateInterface $form_state, $form_id)
+// {
+//   print_r($form_id);
+//   if ($form_id == 'node_custom_module__form') {
+//     $form['field_message'] = [
+
+//       '#type' => 'textfield',
+//       '#title' => 'New article',
+//       '#markup' => 'You are about to create a new article',
+//       '#weight' => -6,
+
+//     ];
+
+//     return $form;
+//   }
+// }
+
+/**
+ * implements hook_preprocess_hook() for html document templates
+ * 
+ * adds body classess if certain regions have content
+ */
+
+
+function task_preprocess(&$variables) {
+
+  // This example is from rdf_preprocess_image(). It adds an RDF attribute
+  // to the image hook's variables.
+  // $variables['attributes']['typeof'] = [
+  //   'foaf:Image',
+  // ];
+
+  //  $variables['attributes']['class'] = 'has-featured-top';
+  //  $variables['phones'] = '123456789';
+  //  dump($variables);
+
+
+
+}
+
+/**
+ * alter css before the twig
+ * 
+ * 
+ * 
+ */
+
+
+
+
+/***
+ * 
+ * form alter
+ * preprocess html classess
+ * css alter
+ * drupal toolbar
+ * 
+ * 
+ * 
+ */

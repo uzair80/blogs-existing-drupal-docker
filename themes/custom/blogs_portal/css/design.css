@@ -6,14 +6,21 @@
   font-family: "Roboto";
   src: url(../fonts/roboto/Roboto-Regular.ttf);
 }
-body p {
+body p, body p a {
   font-family: "Roboto";
-  font-size: 1.1em;
+  font-size: 1em;
   text-transform: initial;
 }
 
 body h1, h2, h3, h4, h5 {
   font-family: "Roboto-Black";
+}
+
+/*
+Global CSS
+*/
+ul li a {
+  font-family: "Roboto" !important;
 }
 
 /*
@@ -24,12 +31,48 @@ My Logo
 }
 
 #navbar-top {
-  background-color: #fff !important;
+  padding: 0 !important;
+}
+
+/*
+Menu Bar
+*/
+.navbar-nav li:nth-child(5) {
+  position: relative;
+}
+
+.navbar-nav li:nth-child(5) span::after {
+  content: "Comming Soon";
+  position: absolute;
+  font-size: 0.65em;
+  right: 0;
+  top: 0;
+  margin-right: -40%;
+  color: red;
+}
+
+.navbar-nav li:nth-child(4) {
+  position: relative;
+}
+
+.navbar-nav li:nth-child(4) span::after {
+  content: "Comming Soon";
+  position: absolute;
+  font-size: 0.65em;
+  right: 0;
+  top: 0;
+  margin-right: -40%;
+  color: red;
+}
+
+span.nav-link.nav-link- {
+  color: white;
 }
 
 #navbar-main {
   background-color: rgba(0, 0, 0, 0.791) !important;
-  border-radius: 0 0 20px 20px;
+  border-radius: 0 0 40px 40px;
+  padding: 1.5%;
 }
 
 nav#block-blogs-portal-main-menu ul li a {
@@ -43,15 +86,142 @@ section.row.region.region-secondary-menu {
   width: 100%;
 }
 
-#block-blogs-portal-content img {
-  width: 80%;
+/*
+Frontpage: technology Block
+
+*/
+#block-views-block-frontpage-block-4 img {
+  width: 100%;
   height: auto;
+  border-radius: 20px;
+  max-height: 60vh;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
-#block-blogs-portal-content h2 {
+#block-views-block-frontpage-block-4 h2 {
+  text-transform: capitalize;
+}
+
+/*
+
+frontpage: pakistan taxonomy block
+
+*/
+#block-views-block-frontpage-block-3 .card {
+  border: 0;
+  padding: 0 0.5em;
+}
+
+#block-views-block-frontpage-block-3 .card .card-body {
+  padding: 1rem 1rem 1rem 0;
+}
+
+#block-views-block-frontpage-block-3 h2 {
+  font-size: 3em;
+}
+
+#block-views-block-frontpage-block-3 img {
+  width: 100%;
+  height: 200px;
+  border-radius: 5px;
+}
+
+/*
+Frontpage: technology taxonomy block
+*/
+#block-views-block-frontpage-block-2 img {
+  width: 100%;
+  height: 300px;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.page-view-latest-blogs .pakistan-blog a:nth-child(1) {
+  font-size: 2em !important;
+  font-family: "Roboto-Black" !important;
+  color: black;
+  text-decoration: none;
+}
+
+.page-view-latest-blogs #block-blogs-portal-content img {
+  width: 80%;
+  height: 300px;
+  -o-object-fit: contain;
+     object-fit: contain;
+  margin: 2.5% 0;
+}
+
+.page-view-latest-blogs #block-blogs-portal-content h2 {
   margin: 3% 0 6% 0;
 }
 
+/*
+Pakistan Blogs - node/ -- default
+Frontpage Blogs - node/ -- default
+*/
+.default-nodes img {
+  width: 100%;
+  height: auto;
+}
+
+.default-nodes .field.field--name-field-title-3 {
+  font-size: 3em !important;
+  font-family: "Roboto-Black" !important;
+  color: black;
+  text-decoration: none;
+  line-height: 1.2em;
+}
+
+/*
+Technolgo Blogs
+
+*/
+.technology img {
+  width: 100%;
+}
+
+.technology {
+  font-size: 2em !important;
+  font-family: "Roboto-Black" !important;
+  color: black;
+  text-decoration: none;
+}
+
+.technology .technology-blogs a:nth-child(1) {
+  font-size: 1em !important;
+  font-family: "Roboto-Black" !important;
+  color: black;
+  text-decoration: none;
+}
+
+.technology .technology-blogs img {
+  width: 100%;
+  height: 300px;
+  -o-object-fit: cover;
+  object-fit: cover;
+  margin: 2.5% 0;
+}
+
+.technology .technology-blogs div p {
+  font-family: "Roboto";
+  font-size: 0.6em !important;
+  text-transform: initial;
+  color: black;
+}
+
+.technology .view-content.row .views-row {
+  padding: 2% 0;
+}
+
+.node .field--type-image {
+  float: none;
+  margin: 0 0 0 0;
+}
+
+/*
+Default Nodes
+*/
 /*
 
 You may like
@@ -59,5 +229,110 @@ You may like
 */
 .you-may-like img {
   width: 100%;
+  height: 200px;
+}
+
+.you-may-like h2 {
+  font-size: 1.2em;
+  margin: 2% 0;
+}
+
+.you-may-like {
+  padding: 2% 2%;
+}
+
+.you-may-like a {
+  text-decoration: none;
+  color: black;
+  margin: 2% 0;
+}
+
+.you-may-like div a.btn.btn-dark {
+  color: white !important;
+}
+
+.you-may-like p {
+  padding: 5% 0 0 0;
+}
+
+.pakistan-blog {
+  padding: 3% 0;
+}
+
+/*
+Frontpage -- Pakistan Blogs
+
+*/
+.page-view-frontpage .frontpage-blogs .views-row {
+  padding: 2% 0;
+}
+
+.page-view-frontpage #block-blogs-portal-content .front-pak-blogs img {
+  width: 100%;
   height: 300px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  margin: 2.5% 0;
+}
+
+.page-view-frontpage .field.field--name-field-blog-image.field--type-image.field--label-hidden.field__item {
+  width: 100%;
+}
+
+#block-blogs-portal-content {
+  padding: 5% 0;
+}
+
+.page-view-frontpage .frontpage-blogs span a:nth-child(1) {
+  font-size: 1em !important;
+  font-family: "Roboto-Black" !important;
+  color: black;
+  text-decoration: none;
+}
+
+.page-view-frontpage .frontpage-blogs .paragraph div p {
+  font-family: "Roboto";
+  font-size: 1.1em;
+  text-transform: initial;
+  color: black;
+}
+
+/*
+site footer
+
+*/
+.site-footer {
+  border-radius: 0 0 150px 0px !important;
+}
+
+/*
+Block-footer
+
+*/
+section.row.region.region-footer-first {
+  width: 100%;
+}
+
+#block-footer ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#block-footer ul li.nav-item {
+  padding: 0 2% !important;
+}
+
+/*
+copyright
+*/
+#block-copyright div p {
+  text-align: center;
+}
+
+span.node-readmore.nav-link a {
+  border: 1px solid black;
+  border-radius: 6px;
+  background-color: black;
 }/*# sourceMappingURL=design.css.map */
