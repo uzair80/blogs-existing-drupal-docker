@@ -19,7 +19,7 @@
         }
     },
     "require": {
-        "php": ">8.0.24",
+        "php": "^8.1.0",
         "commerceguys/addressing": "dev-master",
         "commerceguys/intl": "^1.1",
         "composer/installers": "^1.9",
@@ -52,7 +52,8 @@
         "drupal/state_machine": "1.6",
         "drupal/svg_image": "1.16",
         "drupal/views_infinite_scroll": "1.9",
-        "drupal/workflow": "1.5"
+        "drupal/workflow": "1.5",
+        "drush/drush": "^11.4"
     },
     "conflict": {
         "drupal/drupal": "*"
@@ -124,5 +125,7 @@
                 "      composer remove drupal/core-project-message"
             ]
         }
+    },
+    "require-dev": {
     }
 }

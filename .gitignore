@@ -1,3 +1,5 @@
+# themes 
+
 themes/custom/chatting
 themes/custom/custom_barrio
 themes/custom/deep_fest
@@ -8,3 +10,11 @@ themes/custom/tahalul_barrio
 themes/custom/task
 themes/custom/training
 
+#libraries
+
+libraries/flexslider
+libraries/owlcarousel2
+libraries/slick
+libraries/fonts
+libraries/flexslider
+libraries/fontawesome
