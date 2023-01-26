@@ -1,0 +1,18 @@
+uuid: 92444691-d4ef-456c-8351-a9a398d4ae08
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.pak_blogs
+id: node.pak_blogs.title
+field_name: title
+entity_type: node
+bundle: pak_blogs
+label: 'Pak Blogs'
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

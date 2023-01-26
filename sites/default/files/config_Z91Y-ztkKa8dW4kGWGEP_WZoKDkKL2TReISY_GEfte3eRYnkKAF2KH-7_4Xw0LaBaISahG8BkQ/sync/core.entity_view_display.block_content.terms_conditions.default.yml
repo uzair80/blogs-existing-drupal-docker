@@ -1,0 +1,25 @@
+uuid: d9628bd9-3050-414e-b88c-25aa02ba39e6
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.terms_conditions
+    - field.field.block_content.terms_conditions.field_terms_conditions_paragp
+  module:
+    - entity_reference_revisions
+id: block_content.terms_conditions.default
+targetEntityType: block_content
+bundle: terms_conditions
+mode: default
+content:
+  field_terms_conditions_paragp:
+    type: entity_reference_revisions_entity_view
+    label: above
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  langcode: true

@@ -1,0 +1,10 @@
+uuid: 30a64376-775a-4a49-af1e-44b46043a1c8
+langcode: en
+status: true
+dependencies:
+  module:
+    - paragraphs
+id: paragraph.dea
+label: Default
+targetEntityType: paragraph
+cache: true

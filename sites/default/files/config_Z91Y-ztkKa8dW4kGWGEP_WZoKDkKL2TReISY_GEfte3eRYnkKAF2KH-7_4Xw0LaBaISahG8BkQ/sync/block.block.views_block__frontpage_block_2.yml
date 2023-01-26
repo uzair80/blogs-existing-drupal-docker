@@ -1,0 +1,29 @@
+uuid: bc75d87c-c89f-4b72-998e-67dc78123150
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.frontpage
+  module:
+    - system
+    - views
+  theme:
+    - blogs_portal
+id: views_block__frontpage_block_2
+theme: blogs_portal
+region: content
+weight: -8
+provider: null
+plugin: 'views_block:frontpage-block_2'
+settings:
+  id: 'views_block:frontpage-block_2'
+  label: ''
+  label_display: '0'
+  provider: views
+  views_label: ''
+  items_per_page: none
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    pages: /pak-blogs

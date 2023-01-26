@@ -1,0 +1,30 @@
+uuid: b7923ede-b742-4b1b-aca1-b2e0a885740d
+langcode: en
+status: false
+dependencies:
+  content:
+    - 'block_content:pakistan_blogs:06382892-bed5-4518-9af2-ec18e54f75c6'
+  module:
+    - block_content
+    - system
+  theme:
+    - blogs_portal
+id: pakistanblogs
+theme: blogs_portal
+region: content
+weight: -4
+provider: null
+plugin: 'block_content:06382892-bed5-4518-9af2-ec18e54f75c6'
+settings:
+  id: 'block_content:06382892-bed5-4518-9af2-ec18e54f75c6'
+  label: 'Pakistan Blogs'
+  label_display: '0'
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    pages: /pakistan-blogs

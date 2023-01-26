@@ -1,0 +1,34 @@
+uuid: 660d0b88-c590-4fab-a3df-8dd5bb890687
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.pakistan_blogs
+    - field.storage.block_content.field_pakistan_blogs
+    - paragraphs.paragraphs_type.pakistan_blogs
+  module:
+    - entity_reference_revisions
+id: block_content.pakistan_blogs.field_pakistan_blogs
+field_name: field_pakistan_blogs
+entity_type: block_content
+bundle: pakistan_blogs
+label: 'Pakistan Blogs'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:paragraph'
+  handler_settings:
+    target_bundles:
+      pakistan_blogs: pakistan_blogs
+    negate: 0
+    target_bundles_drag_drop:
+      pakistan_blogs:
+        weight: 3
+        enabled: true
+      youtube_video_ideas:
+        weight: 4
+        enabled: false
+field_type: entity_reference_revisions

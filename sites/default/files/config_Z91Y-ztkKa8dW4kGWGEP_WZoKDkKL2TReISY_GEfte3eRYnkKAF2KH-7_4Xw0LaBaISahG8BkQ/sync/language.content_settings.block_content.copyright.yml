@@ -1,0 +1,18 @@
+uuid: bf20208d-3968-48ed-813c-f45d281d48d1
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.copyright
+  module:
+    - content_translation
+third_party_settings:
+  content_translation:
+    enabled: false
+    bundle_settings:
+      untranslatable_fields_hide: '0'
+id: block_content.copyright
+target_entity_type_id: block_content
+target_bundle: copyright
+default_langcode: site_default
+language_alterable: false

@@ -1,0 +1,65 @@
+uuid: fcabd8e9-9aa2-4dfd-82ac-0e8105f88d70
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_display.comment.comment.default
+    - field.field.node.pak_blogs.field_blog_image
+    - field.field.node.pak_blogs.field_comments
+    - field.field.node.pak_blogs.field_pak_blogs_category
+    - field.field.node.pak_blogs.field_pakistan_blogs
+    - field.field.node.pak_blogs.field_pakistan_blogs_3
+    - field.field.node.pak_blogs.field_title_3
+    - node.type.pak_blogs
+  module:
+    - comment
+    - entity_reference_revisions
+    - image
+    - user
+id: node.pak_blogs.default
+targetEntityType: node
+bundle: pak_blogs
+mode: default
+content:
+  field_blog_image:
+    type: image
+    label: hidden
+    settings:
+      image_link: ''
+      image_style: ''
+      image_loading:
+        attribute: lazy
+    third_party_settings: {  }
+    weight: 1
+    region: content
+  field_comments:
+    type: comment_default
+    label: hidden
+    settings:
+      view_mode: default
+      pager_id: 0
+    third_party_settings: {  }
+    weight: 3
+    region: content
+  field_pakistan_blogs:
+    type: entity_reference_revisions_entity_view
+    label: hidden
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  field_title_3:
+    type: string
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  field_pak_blogs_category: true
+  field_pakistan_blogs_3: true
+  langcode: true
+  links: true

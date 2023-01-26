@@ -1,0 +1,18 @@
+uuid: 319dacd7-f805-4481-8e7e-e802d919ec80
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.blogs_you_may_like
+id: node.blogs_you_may_like.changed
+field_name: changed
+entity_type: node
+bundle: blogs_you_may_like
+label: Changed
+description: 'The time that the node was last edited.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: changed

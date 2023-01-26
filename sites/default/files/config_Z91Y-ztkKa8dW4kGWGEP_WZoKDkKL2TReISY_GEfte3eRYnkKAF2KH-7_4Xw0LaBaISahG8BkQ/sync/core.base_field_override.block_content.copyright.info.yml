@@ -1,0 +1,18 @@
+uuid: ff8b5f16-3fd3-4e6c-b63f-ec3dab95a340
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.copyright
+id: block_content.copyright.info
+field_name: info
+entity_type: block_content
+bundle: copyright
+label: 'Block description'
+description: 'A brief description of your block.'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

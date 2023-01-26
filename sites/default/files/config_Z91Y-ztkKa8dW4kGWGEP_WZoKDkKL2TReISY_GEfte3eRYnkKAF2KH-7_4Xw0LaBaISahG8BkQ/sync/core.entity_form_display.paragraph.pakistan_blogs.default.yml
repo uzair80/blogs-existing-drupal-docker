@@ -1,0 +1,27 @@
+uuid: 2efb6072-432a-4b71-9897-c211eca74042
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.pakistan_blogs.field_description_2
+    - paragraphs.paragraphs_type.pakistan_blogs
+  module:
+    - text
+id: paragraph.pakistan_blogs.default
+targetEntityType: paragraph
+bundle: pakistan_blogs
+mode: default
+content:
+  field_description_2:
+    type: text_textarea_with_summary
+    weight: 2
+    region: content
+    settings:
+      rows: 9
+      summary_rows: 3
+      placeholder: ''
+      show_summary: false
+    third_party_settings: {  }
+hidden:
+  created: true
+  status: true

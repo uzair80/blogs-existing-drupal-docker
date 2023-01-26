@@ -1,0 +1,18 @@
+uuid: 49b163be-4d7b-462d-aec0-86e7bd99d2d5
+langcode: en
+status: true
+dependencies:
+  config:
+    - paragraphs.paragraphs_type.pakistan_blogs
+id: paragraph.pakistan_blogs.created
+field_name: created
+entity_type: paragraph
+bundle: pakistan_blogs
+label: 'Authored on'
+description: 'The time that the Paragraph was created.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: created

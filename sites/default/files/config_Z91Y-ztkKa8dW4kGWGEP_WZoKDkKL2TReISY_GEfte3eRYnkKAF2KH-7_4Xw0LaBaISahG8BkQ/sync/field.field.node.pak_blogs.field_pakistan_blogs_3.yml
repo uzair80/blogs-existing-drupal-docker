@@ -1,0 +1,23 @@
+uuid: 08f8c7bb-55d0-4976-9a89-7f37d07abf1e
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_pakistan_blogs_3
+    - node.type.pak_blogs
+  module:
+    - text
+id: node.pak_blogs.field_pakistan_blogs_3
+field_name: field_pakistan_blogs_3
+entity_type: node
+bundle: pak_blogs
+label: 'Pakistan Blogs '
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: false
+  required_summary: false
+field_type: text_with_summary
