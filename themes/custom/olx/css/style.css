@@ -1,0 +1,189 @@
+/**
+ * @file
+ * Subtheme specific CSS.
+ */
+
+
+
+ /***************
+Main Page
+
+ ***************/
+ .fresh .views-field .field-content img{
+    width: 100% !important;
+    height: 30vh !important;
+ }
+
+.fresh .card {
+  height: 60vh;
+}
+
+ /***************
+All Categories
+ ***************/
+
+ .all-categories {
+
+ width: 96.4vw !important;
+ max-width: 96.4vw !important;
+ height: 75vh;
+ margin: 0 5% 0;
+ background-color:silver;
+ 
+ }
+
+
+
+
+ .all-categories li {
+
+   /* text-align: center; */
+
+ }
+ .all-categories li a {
+   text-decoration: none;
+   color: black;
+   
+ }
+
+ .dropdown .btn {
+
+   margin: 0 5% 0;
+ }
+
+.my-list {
+  width: 25% !important;
+}
+
+/*********
+.all-categories
+media query
+
+*********/
+@media (max-width:998px){
+
+  .all-categories {
+
+    width: 90vw !important;
+  }
+}
+
+@media (max-width:991px){
+
+  .my-list {
+    width: 50% !important;
+  }
+
+}
+@media (max-width:975px){
+
+  .all-categories {
+    width: 90vw !important;
+  }
+
+}
+
+/********************
+Suggest Data
+
+******************/
+
+
+.suggest-data .views-field .field-content img {
+
+  width: 100% !important;
+  height: 25vh;
+}
+
+/************* 
+All Categories
+Related Content
+**************/
+
+.related .views-field .field-content .card img {
+
+  width: 100% !important;
+  height: 50vh !important
+}
+
+.related .views-field .field-content .card {
+
+  /* height: 30vh !important; */
+
+}
+
+
+
+
+
+
+/****************
+Searching
+****************/
+.searching {
+
+  width: 100% !important;
+}
+.searching form .my-form {
+  width: 100% !important;
+}
+
+
+
+/****************
+Footer
+****************/
+ .site-footer section ul {
+   display: flex;
+   flex-direction: column;
+
+ }
+ .site-footer section ul li {
+   text-align: center;
+}
+.site-footer section {
+width: 20% !important;
+}
+
+.site-footer section nav {
+
+  text-align: center !important ;
+}
+
+
+.site-footer {
+   flex: 1 !important;
+}
+
+
+
+/********************
+Footer media queries
+
+*********************/
+
+@media (max-width: 991px){
+
+.site-footer section {
+  width: 50% !important;
+  
+}
+.site-footer .region-footer-fifth {
+  width: 100% !important;
+  
+}
+}
+
+@media (max-width:767px){
+  .site-footer section {
+    /* width: 100% !important; */
+  }
+
+}
+
+@media (max-width:559px){
+  .site-footer section {
+    width: 100% !important;
+  }
+
+}
