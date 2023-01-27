@@ -12,13 +12,13 @@ themes/custom/training
 
 #libraries
 
-libraries/flexslider
-libraries/owlcarousel2
-libraries/slick
-libraries/fonts
-libraries/flexslider
-libraries/fontawesome
+# libraries/flexslider
+# libraries/owlcarousel2
+# libraries/slick
+# libraries/fonts
+# libraries/flexslider
+# libraries/fontawesome
 
 #sites
 
-sites/default/files/config_Z91Y-ztkKa8dW4kGWGEP_WZoKDkKL2TReISY_GEfte3eRYnkKAF2KH-7_4Xw0LaBaISahG8BkQ/sync
+# sites/default/files/config_Z91Y-ztkKa8dW4kGWGEP_WZoKDkKL2TReISY_GEfte3eRYnkKAF2KH-7_4Xw0LaBaISahG8BkQ/sync
