@@ -1,0 +1,518 @@
+/**
+ * @file
+ * Subtheme specific CSS.
+ */
+
+body {
+  background-color: #ffffff !important;
+}
+/* 
+Navbar
+*/
+#CollapsingNavbar{
+
+ background-color: #000 !important;
+ padding: 2% 0 !important;
+
+}
+#CollapsingNavbar ul li a{
+
+ color: #ffffff !important;
+ font-family: 'josefin Sans' !important;
+ line-height: 24px !important;
+ font-weight: 600 !important;
+ }
+/*************
+navbar
+
+**************/
+#page-wrapper #navbar-main,
+#navbar-top {
+  background-color: #ffffff !important;
+}
+
+#navbar-main,
+#navbar-main a {
+  /* margin: auto !important; */
+  text-align: center !important;
+}
+/**************
+Top header--- Alert
+
+**************/
+nav#navbar-top {
+
+  padding: 0 !important;
+  margin: 0 !important;
+  background: #ad1b3c !important;
+}
+#navbar-top .alert {
+
+  /* background-color: red !important; */
+  margin: 0 !important;
+  padding: 1% 0 !important;
+}
+#navbar-top .alert p {
+  margin: 0 !important;
+  padding: 0 !important;
+  vertical-align: middle !important;
+  align-items: center !important;
+  align-self: center !important;
+  align-content: center !important;
+  color: #ffffff !important;
+  font-size: 12px !important;
+  font-weight: 600;
+}
+.navbar-brand {
+  /* width: 100% !important; */
+  display: flex !important;
+  justify-content: center !important;
+  font-size: 28px !important;
+}
+/*
+menu bar image
+*/
+
+/* ul.clearfix.nav.navbar-nav:nth-child(4) a{
+
+background-image: url('');
+color: blue !important;
+}
+ */
+/* ****************** */
+
+.field.field--name-field-img.field--type-image.field--label-above img {
+  width: 34vw !important;
+  height: 55vh !important;
+}
+section.row.region.region-top-header {
+  width: 100% !important;
+}
+.paragraph.paragraph--type--my-paragraphs.paragraph--view-mode--default img {
+  /* height: 25vh !important; */
+} 
+/********************
+  Images
+********************/
+.card {
+  width: 95% !important;
+  height: 70vh !important;
+}
+.card img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+}
+
+#block-training-content .card {
+  /* width: 30% !important; */
+  width: 100% !important;
+  height: 100% !important;
+}
+
+
+#block-training-content img {
+
+  width: 100% !important;
+  /* height: 70vh !important; */
+  /* padding: 5% 5% !important; */
+}
+/*****************
+Main Page Product
+******************/
+
+.main-image img {
+
+  width: 100% !important;
+  height: 80vh !important;
+  color: #1b0409;
+  opacity: 0.4;
+}
+
+.main-image {
+
+  background-color: black !important;
+}
+
+.color {
+
+  position: relative !important;
+}
+
+.position-set {
+
+  position: absolute !important;
+  top: 24%;
+  left: 25%;
+  right: 25%;
+  color: #ffffff;
+  font-weight: 700;
+  letter-spacing: 1px;
+  line-height: 28px;
+  text-align: center;
+}
+/***************
+Frontpage Product type
+****************/
+
+#block-views-block-my-products-block-1 .card {
+
+  width: 80% !important;
+  margin: auto !important;
+  margin: 3% 0 3% 0 !important;
+}
+
+#block-views-block-my-products-block-1 .card img {}
+
+#block-views-block-my-products-block-1 h2 {
+
+  color: #232323;
+  font-size: 50px;
+  font-weight: 700;
+  letter-spacing: 2.5px;
+  line-height: 62.5px;
+  text-align: left;
+  text-transform: uppercase;
+}
+/******************
+Variation Details
+*****************/
+
+/* #block-training-content img {
+
+  width: 97% !important;
+  height: 45vh !important;
+  margin: auto !important;
+
+
+} */
+
+/*****************
+Variation Prices
+******************/
+
+.prices {
+
+
+  font-size: 20px;
+  color: #232323 !important;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 27px;
+  padding-top: 5% !important;
+
+}
+
+/* 
+
+variation details
+*/
+
+.variation-details h4 {
+
+  color: #323232;
+  font-size: 28px;
+  font-weight: 400;
+  text-transform: uppercase;
+
+}
+
+/********************
+My-Products
+********************/
+
+
+.my-products img {
+  width: 100% !important;
+  height: 50vh !important;
+  min-height: 40vh !important;
+}
+
+.my-products .card-title a {
+
+  font-size: 18px !important;
+
+}
+
+.fabrics {
+
+   position: relative !important;
+}
+
+.fabrics div {
+
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  right: 5%;
+  text-align: center !important;
+}
+.fabrics div a {
+  margin: auto; 
+}
+.fabrics img {
+  
+  width: 100% !important;
+  height: 70vh !important;
+  object-fit: contain !important;
+}
+/* .pieces {
+
+  padding: 0 28% !important;
+
+} */
+
+/*
+
+2 piece fabrics/ 3 piece fabrics
+
+*/
+.multi-pieces {
+
+   display: flex !important;
+   padding: 0 27% !important;
+
+}
+.multi-pieces > div {
+
+  /* width: 100% !important; */
+  margin: auto !important;
+}
+/***********************
+
+Multiple variations    'product_variation'
+
+**********************/
+
+.card a,
+.card .card-text {
+
+  /* font-family: 'Roboto'; */
+}
+
+/* .card {
+
+  border: none;
+
+}
+.card a {
+  text-decoration: none;
+  color: #828282 !important;
+  font-size: 13px !important;
+  font-weight:400 !important;
+  line-height: 16px !important;
+  text-align: left !important;
+  text-transform: capitalize !important;
+
+}
+.card a:hover {
+  color: black !important;
+}
+.card img:hover {
+
+  box-shadow: 1px 1px 10px 1px black;
+}
+.card .card-text {
+ color:  #232323 !important;
+ font-size: 14px !important;
+ font-weight: 700 !important;
+ line-height: 17px !important;
+ text-transform: uppercase !important;
+
+} */
+
+/* 
+  Variation-details Buy page
+
+*/
+div#main-wrapper {
+
+  padding: 5% 0;
+}
+/* 
+  nav#navbar-main
+*/
+nav#navbar-main {
+
+  position: relative;
+  padding: 0 !important;
+}
+nav#navbar-main:after {
+
+  content: '';
+  position: absolute;
+  border: 3px solid #25A35C;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.about-this-item {
+
+  color: black !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-size: 85% !important;
+  padding: 9% 0;
+}
+.variation-details .btn a {
+
+  color: black !important;
+  margin: auto !important;
+}
+.variation-details .btn {
+  background-color: #ffffff;
+  width: 50% !important;
+  border: 1px solid black !important;
+  text-align: center !important;
+  display: flex !important;
+  /* margin: auto !important; */
+}
+.variation-details .btn:hover {
+
+  background-color: black !important;
+}
+.variation-details .btn:hover a {
+
+  color: white !important;
+}
+div#block-training-content .variation-img img {
+
+  width: 100% !important;
+  height: 59vh !important;
+}
+/*
+*
+*Footer
+*/
+.site-footer {
+
+  background-color: #ffffff !important;
+
+}
+.site-footer .site-footer__top.clearfix {
+
+  display: flex !important;
+  justify-content: center !important;
+  text-align: center !important;
+}
+.site-footer .site-footer__top.clearfix section {
+
+  width: 33.33% !important;
+}
+.site-footer .site-footer__top.clearfix section ul {
+
+  display: flex;
+  flex-direction: column !important;
+
+}
+.site-footer .site-footer__top.clearfix section ul li a {
+
+
+  color: #1b0409;
+  font-size: 13px;
+  line-height: 16px;
+  text-align: left !important;
+}
+/* 
+New arrivals slideshow
+*/
+
+.slideshow {
+
+  width: 80% !important;
+  height: 100% !important;
+  border: none;
+}
+.slideshow img {
+
+  width: 100% !important;
+  height: 70vh !important;
+}
+.slideshow .card-image {
+
+  position: relative;
+
+}
+.slideshow .card-image a {
+
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100% !important;
+}
+
+/**************
+women clothing variations
+****************/
+#cloths-img img {
+
+  width: 70% !important;
+  height: 100vh !important;
+}
+.clothes-details {
+
+  display: flex !important;
+  flex-direction: column !important;
+
+}
+
+.clothes-details a {
+  width: 50% !important;
+}
+
+/******
+shopping cart
+******/
+
+#cart-id img{
+
+width: 25% !important;
+height: 70vh !important;
+
+}
+#block-training-content img {
+
+  width: 38% !important;
+  height: 53vh !important;
+}
+
+.text-cart {
+  color: #f16232;   
+}
+
+#edit-actions {
+
+  display: flex !important;
+  justify-content: end !important;
+}
+
+/*
+customize dress page
+
+*/
+
+.customize-dress img {
+
+  width: 100% !important;
+  height: 80vh !important;
+}
+.customize-dress {
+
+  position: relative;
+}
+.customize-dress .order-now {
+
+  position: absolute;
+  top: 25%;
+  left: 25%;
+  color: #ffffff;
+}
+.customize-dress .order-now a {
+
+ color: #ffffff;
+}
+.customize-dress .order-now a{
+
+  font-size: 2vw !important;
+  text-decoration: none !important;
+}

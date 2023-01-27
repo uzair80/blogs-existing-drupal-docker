@@ -1,0 +1,21 @@
+/**
+ * @file
+ * Subtheme specific CSS.
+ */
+
+/**
+*
+* Menu Bar
+*
+* Messages, Profile, Home
+*
+*/
+
+#block-chatting-main-menu ul li a{
+
+
+    color: black !important;
+
+
+
+ }

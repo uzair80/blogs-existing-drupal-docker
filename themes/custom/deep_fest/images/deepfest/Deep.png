@@ -1,0 +1,4617 @@
+<!DOCTYPE html>
+<!-- saved from url=(0021)https://deepfest.com/ -->
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " class=" js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+<link rel="canonical" href="https://deepfest.com/">
+<meta name="robots" content="index, follow">
+<meta name="description" content="DeepFest is the premier meeting place for the global Artificial Intelligence ecosystem of thought-leaders, change-makers, big tech, data scientists, innovators">
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<script type="text/javascript" async="" src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/js"></script><script src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/gtm.js.download" async=""></script><script &lt;!--="&lt;!--" google="Google" tag="tag" (gtag.js)="(gtag.js)" --="--">  async src=https://www.googletagmanager.com/gtag/js?id=G-DDN274DKKS></script>
+<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-DDN274DKKS'); </script>
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "Event",
+            "name": "Infosec on the Edge",
+            "description": "Black Hat, the undisputed heavyweight in cybersecurity events and infosec training for over two decades globally, now launches Black Hat MEA to engage a region all set for growth and success in ICT security.",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://files.blackhatmea.com/files/2022-06/executive%20summit%20slider%20desktop.png"
+            },
+            "startDate": "2022-11-15",
+            "endDate": "2022-11-17",
+            "location": {
+                "@type": "Place",
+                "name": "RIYADH FRONT EXHIBITION CENTRE",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Riyadh Front",
+                    "addressLocality": "Riyadh",
+                    "postalCode": "13412",
+                    "addressCountry": "SA"
+                }
+            }
+        },
+        {
+            "@type": "Organization",
+            "name": "blackhat",
+            "sameAs": [
+                "https://twitter.com/athackcon",
+                "https://www.facebook.com/athackcon",
+                "https://www.instagram.com/athackcon/",
+                "https://www.youtube.com/channel/UCnBep_DEHvsk1HbyVwBz7xA",
+                "https://www.linkedin.com/company/athackcon",
+                "https://www.snapchat.com/add/athackcon"
+            ],
+            "url": "https://blackhatmea.com/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://blackhatmea.com/themes/custom/blackhat_theme/logo.svg"
+            }
+        }
+    ]
+}</script>
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<link rel="icon" href="https://files.deepfest.com/files/favicon.png" type="image/png">
+<script src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/google_tag.script.js.download" defer=""></script>
+
+    <title>DeepFest | By Leap | 06 - 09 February 2023</title>
+    <link rel="stylesheet" media="all" href="./DeepFest _ By Leap _ 06 - 09 February 2023_files/css_XsP86dZ282GHDJ6hMc_9w6c4Pp0fgKZYqgSJ85yd5EU.css">
+<link rel="stylesheet" media="all" href="./DeepFest _ By Leap _ 06 - 09 February 2023_files/css_dB1_yO8mBPgbsBSU-yb_suvLEEHr7TQb6ozDbSS7PGc.css">
+
+    
+  </head>
+  <body class="layout-no-sidebars page-view-frontpage path-frontpage scrolled scrolldown">
+    <a href="https://deepfest.com/#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KN8W642" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'off_canvas_page_wrapper' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/off-canvas-page-wrapper.html.twig' -->
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'page' -->
+<!-- FILE NAME SUGGESTIONS:
+   * page--front.html.twig
+   * page--node.html.twig
+   x page.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/layout/page.html.twig' -->
+<div id="page-wrapper">
+  <div id="page">
+    <header id="header" class="header" role="banner" aria-label="Site header">
+                      <nav class="navbar main-menu fixed-top navbar-dark" id="navbar-main">
+                      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   x region--nowrap.html.twig
+   * region--header.html.twig
+   * region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/layout/region--nowrap.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--mainstickynavigationwhitelogo.html.twig
+   * block--block-content--057f62ef-eca0-4119-91d8-a912c8cef3cd.html.twig
+   * block--block-content.html.twig
+   x block--bundle--main-sticky-navigation.html.twig
+   * block--block-content.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/block/block--bundle--main-sticky-navigation.html.twig' -->
+<div id="block-mainstickynavigationwhitelogo" class="block block-block-content block-block-content057f62ef-eca0-4119-91d8-a912c8cef3cd">
+  
+    
+      <div class="content">
+      <div class="sticky-nav-main-wrapper" style="padding-top: 29px; padding-bottom: 29px; background: white; transition: all 0.5s ease 0s; border-bottom-right-radius: 30px; border-bottom-left-radius: 30px;">
+        <div class="logo" style="display: none;">
+          <a href="https://deepfest.com/"><img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Vector (2).svg" class="logo-img"></a>
+        </div>
+        <div class="logo2" style="display: block;">
+          <a href="https://deepfest.com/"><img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Vector (4)_0.png" class="logo-img"></a>
+        </div>
+        <div class="register-now">
+          <a target="_blank" href="https://deepfest.com/form/register-your-interest" class="register-btn-link">Register now</a>
+        </div>
+       
+      
+      </div>
+    </div>
+  </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/block/block--bundle--main-sticky-navigation.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/layout/region--nowrap.html.twig' -->
+
+
+                          <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#CollapsingNavbar" aria-controls="CollapsingNavbar" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span><span class="navbar-toggler-icon"></span></button>
+              <div class="collapse navbar-collapse justify-content-end" id="CollapsingNavbar">
+                                
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   x region--nowrap.html.twig
+   * region--primary-menu.html.twig
+   * region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/layout/region--nowrap.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--mainnavigation.html.twig
+   x block--system-menu-block--main.html.twig
+   * block--system-menu-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/block/block--system-menu-block--main.html.twig' -->
+<nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation" class="block block-menu navigation menu--main main-navigation-logo-relative">
+    <a href="https://deepfest.com/">
+    <div class="logo logo-white">
+      <svg width="192" height="61" viewBox="0 0 192 61" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M11.6223 0H0V35.1992H11.6223C21.7021 35.1992 29.0154 27.7996 29.0154 17.6017C29.0154 7.40386 21.6978 0 11.6223 0ZM11.7201 28.2036H7.27936V6.99135H11.7201C17.4696 6.99135 21.6468 11.4524 21.6468 17.5975C21.6468 22.8665 18.2388 28.2036 11.7201 28.2036ZM42.1676 10.2999C35.2154 10.2999 29.9716 15.7773 29.9716 23.0366C29.9716 30.2959 35.6871 35.7733 42.9877 35.7733C48.7415 35.7733 52.4768 32.4477 52.6298 32.3031L53.11 31.8694L49.8634 26.9958L49.3492 26.2346L48.699 26.8852C48.699 26.8852 46.5828 28.9733 42.9835 28.9733C40.2851 28.9733 38.4238 27.3403 37.6589 25.8561H54.3253L54.3636 25.1459C54.4146 24.2571 54.4146 23.3683 54.4146 22.9388C54.4146 15.7305 49.1495 10.2999 42.1676 10.2999ZM37.5144 20.1661C37.9606 18.7882 39.2737 17.0489 42.1676 17.0489C45.0615 17.0489 46.5531 18.7329 46.995 20.1661H37.5144ZM67.8005 10.2999C60.8441 10.2999 55.6002 15.7773 55.6002 23.0366C55.6002 30.2959 61.3157 35.7733 68.6163 35.7733C74.3701 35.7733 78.1054 32.4477 78.2584 32.3031L78.7386 31.8694L74.9778 26.2261L74.3277 26.8895C74.3277 26.8895 72.2454 28.9733 68.6121 28.9733C65.9137 28.9733 64.0524 27.3403 63.2875 25.8561H79.954L79.9922 25.1459C80.039 24.2571 80.039 23.3683 80.039 22.9388C80.039 15.7305 74.7738 10.2999 67.792 10.2999M63.1388 20.1661C63.585 18.7882 64.8981 17.0489 67.792 17.0489C70.6858 17.0489 72.1774 18.7329 72.6194 20.1661H63.1388ZM94.8824 10.2999C91.9757 10.2999 89.9615 11.5332 88.7589 12.6176V10.874H81.9172V46.2688H89.1923V33.8766C90.3864 34.8164 92.252 35.7775 94.8866 35.7775C101.537 35.7775 106.747 30.181 106.747 23.0409C106.747 15.9007 101.537 10.3042 94.8866 10.3042M93.8753 28.884C90.9984 28.884 89.545 26.8342 89.1923 26.2601V19.8258C89.5493 19.2475 91.0026 17.202 93.8753 17.202C97.1644 17.202 99.3783 19.5494 99.3783 23.0451C99.3783 26.5408 97.1686 28.8882 93.8753 28.8882M113.138 0H134.602V6.99135H120.413V13.719H133.638V20.7104H120.413V35.1992H113.138V0ZM191.996 36.1985L191.482 36.5558C191.384 36.6238 189.085 38.1803 185.571 38.1803C180.968 38.1803 177.543 34.9653 177.084 30.3937V18.3459C175.614 17.4274 173.923 17.0276 172.155 16.9638C168.649 16.8362 161.888 16.8703 161.196 12.12C160.851 9.73431 162.819 7.68454 165.016 7.17847C166.167 6.91055 167.396 6.99986 168.496 7.42938C170.825 8.33944 172.287 10.5211 174.008 12.2179C174.832 13.0301 175.86 13.9572 177.084 13.9912V6.49805H184.304V13.2853H191.18V19.9874H184.304V28.429C184.304 30.3512 185.035 31.2867 186.535 31.2867C187.559 31.2867 188.486 30.6191 188.498 30.6148L189.246 30.0705L192 36.2028L191.996 36.1985ZM171.05 23.6787C169.881 22.6283 168.339 22.0883 166.813 21.7183C165.428 21.3823 164.034 21.1314 162.666 20.7232C162.101 20.5531 161.54 20.3489 161 20.115C157.078 18.4055 154.63 16.4365 153.954 12.2434C152.055 11.0101 149.773 10.2999 147.266 10.2999C140.309 10.2999 135.065 15.7773 135.065 23.0366C135.065 30.2959 140.785 35.7733 148.082 35.7733C150.406 35.7733 152.391 35.2289 153.95 34.574V26.7322L153.797 26.8895C153.797 26.8895 151.715 28.9733 148.082 28.9733C145.383 28.9733 143.522 27.3403 142.757 25.8561H153.95C153.946 23.5724 157.227 23.3853 158.693 24.2401C160.856 25.4989 161.268 28.3439 163.125 29.9216C165.177 31.6695 168.262 31.6865 170.481 30.2363C172.996 28.5906 173.311 25.7115 171.046 23.6745M142.608 20.1618C143.054 18.784 144.368 17.0446 147.261 17.0446C150.155 17.0446 151.647 18.7287 152.089 20.1618H142.608ZM140.012 44.6613V53.745H140.042L139.332 54.4552H140.879L137.968 57.3682H136.421L137.131 56.658H136.689V46.2603L138.287 44.6613H140.012ZM144.669 56.658L145.817 55.5056V53.7407H141.588L138.678 56.6538H144.669V56.658ZM136.149 44.3254V45.9244L137.747 44.3254H136.149ZM152.352 49.2925H154.001L155.837 47.4511H152.348V49.2925H152.352ZM159.564 46.6771H156.789L154.175 49.2925H158.183V51.9461H152.357V53.8726H158.875V56.7346H151.107L149.042 54.6721V44.589H158.786L159.564 43.8108V46.6728V46.6771ZM175.55 51.6782H173.689L170.693 44.589H167.489L163.439 54.1745V56.6708H165.857L167.727 51.9589H167.71L169.061 48.5482L169.07 48.5695L169.078 48.5482L170.306 51.6782H172.168L173.281 54.519H171.42L172.261 56.6708H174.896V54.5487L174.883 54.5147H176.744L175.546 51.6739L175.55 51.6782ZM188.116 49.5604C188.197 49.369 188.239 49.1564 188.239 48.9182V48.8842C188.239 48.561 188.167 48.2973 188.035 48.0719H186.935C186.854 47.9359 186.76 47.8083 186.633 47.7062C186.293 47.434 185.826 47.3022 185.218 47.3022H183.658V48.0719H184.759V49.5646H183.658V50.4917H185.235C185.83 50.4917 186.293 50.3514 186.633 50.0707C186.803 49.9304 186.93 49.7602 187.015 49.5689H188.116V49.5604ZM190.079 50.6405C189.82 51.1764 189.467 51.6272 189.008 51.9929C188.549 52.3586 188.005 52.6308 187.372 52.8136C186.739 52.9965 186.051 53.0901 185.307 53.0901H183.663V54.4594L181.606 56.5177H180.339V49.5604H181.44V48.0677H180.339V46.5495L182.366 44.521H185.477C186.229 44.521 186.918 44.6145 187.534 44.8017C188.15 44.9888 188.677 45.2652 189.11 45.6267C189.544 45.9881 189.88 46.4304 190.113 46.9535C190.266 47.2937 190.364 47.6679 190.415 48.0677H191.516C191.545 48.2846 191.567 48.5057 191.567 48.7354V48.7694C191.567 49.0458 191.541 49.3052 191.503 49.5604H190.402C190.343 49.9516 190.236 50.3131 190.083 50.6405M115.471 58.0146C114.732 58.0146 114.082 57.8403 113.521 57.4958C112.964 57.1513 112.535 56.6538 112.246 56.0074V57.7297H111.056V46.2901H112.56V50.8021C112.875 50.2153 113.295 49.7815 113.827 49.5008C114.358 49.2202 114.948 49.0756 115.594 49.0756C116.397 49.0756 117.099 49.2712 117.694 49.6539C118.289 50.0409 118.752 50.5555 119.087 51.2061C119.423 51.8526 119.589 52.5755 119.589 53.3665V53.6472C119.589 54.4297 119.415 55.1526 119.07 55.816C118.726 56.4794 118.246 57.011 117.63 57.4065C117.014 57.802 116.296 58.0019 115.471 58.0019V58.0146ZM115.297 56.7006C115.862 56.7006 116.351 56.5645 116.767 56.2923C117.184 56.0201 117.507 55.6459 117.736 55.1739C117.966 54.7018 118.08 54.149 118.08 53.5196C118.08 52.5798 117.825 51.8228 117.311 51.2529C116.801 50.6831 116.126 50.3981 115.293 50.3981C114.791 50.3981 114.328 50.5087 113.899 50.7341C113.47 50.9595 113.13 51.2827 112.875 51.7037C112.62 52.129 112.492 52.635 112.492 53.2304V53.9534C112.492 54.5275 112.624 55.0208 112.883 55.4248C113.142 55.833 113.487 56.1477 113.916 56.3646C114.345 56.5815 114.804 56.6921 115.293 56.6921L115.297 56.7006ZM123.532 57.5468L120.541 49.3647H122.075L124.501 56.2923H124.828L126.881 49.3647H128.351L125.564 58.627C125.313 59.452 124.909 60.0517 124.357 60.4301C123.804 60.8044 123.099 60.9957 122.245 60.9957H121.131V59.6477H122.338C122.861 59.6477 123.269 59.5413 123.566 59.333C123.864 59.1246 124.089 58.7589 124.246 58.2358L124.45 57.5468H123.528H123.532Z" fill="white"></path>
+      </svg>
+    </div>
+    <div class="logo logo-dark">
+      <svg width="136" height="44" viewBox="0 0 136 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M8.23248 0H0V25.3913H8.23248C15.3723 25.3913 20.5526 20.0535 20.5526 12.6972C20.5526 5.34086 15.3693 0 8.23248 0ZM8.30171 20.345H5.15621V5.0433H8.30171C12.3743 5.0433 15.3332 8.26131 15.3332 12.6941C15.3332 16.495 12.9191 20.345 8.30171 20.345ZM29.8687 7.42997C24.9443 7.42997 21.2299 11.3812 21.2299 16.6177C21.2299 21.8543 25.2784 25.8055 30.4496 25.8055C34.5253 25.8055 37.1711 23.4065 37.2794 23.3022L37.6196 22.9893L35.3199 19.4738L34.9557 18.9246L34.4952 19.394C34.4952 19.394 32.9962 20.9002 30.4466 20.9002C28.5353 20.9002 27.2169 19.7222 26.675 18.6516H38.4805L38.5075 18.1393C38.5437 17.4982 38.5437 16.857 38.5437 16.5472C38.5437 11.3474 34.8142 7.42997 29.8687 7.42997ZM26.5727 14.547C26.8888 13.5531 27.8189 12.2984 29.8687 12.2984C31.9186 12.2984 32.9751 13.5132 33.2881 14.547H26.5727ZM48.0253 7.42997C43.0979 7.42997 39.3835 11.3812 39.3835 16.6177C39.3835 21.8543 43.432 25.8055 48.6032 25.8055C52.6789 25.8055 55.3247 23.4065 55.433 23.3022L55.7732 22.9893L53.1093 18.9185L52.6488 19.3971C52.6488 19.3971 51.1738 20.9002 48.6002 20.9002C46.6889 20.9002 45.3705 19.7222 44.8286 18.6516H56.6341L56.6612 18.1393C56.6943 17.4982 56.6943 16.857 56.6943 16.5472C56.6943 11.3474 52.9648 7.42997 48.0193 7.42997M44.7233 14.547C45.0394 13.5531 45.9695 12.2984 48.0193 12.2984C50.0691 12.2984 51.1257 13.5132 51.4387 14.547H44.7233ZM67.2084 7.42997C65.1495 7.42997 63.7227 8.3196 62.8709 9.10186V7.84411H58.0247V33.3766H63.1779V24.4373C64.0237 25.1153 65.3451 25.8085 67.2114 25.8085C71.9221 25.8085 75.6124 21.7715 75.6124 16.6208C75.6124 11.4701 71.9221 7.43303 67.2114 7.43303M66.495 20.8358C64.4572 20.8358 63.4277 19.3572 63.1779 18.943V14.3016C63.4307 13.8844 64.4602 12.4088 66.495 12.4088C68.8248 12.4088 70.393 14.1022 70.393 16.6239C70.393 19.1455 68.8278 20.8389 66.495 20.8389M80.1395 0H95.3433V5.0433H85.2927V9.8964H94.66V14.9397H85.2927V25.3913H80.1395V0ZM135.997 26.1123L135.633 26.3699C135.564 26.419 133.935 27.5418 131.446 27.5418C128.186 27.5418 125.76 25.2226 125.435 21.9248V13.2341C124.393 12.5714 123.195 12.2831 121.943 12.2371C119.46 12.145 114.671 12.1696 114.18 8.74294C113.936 7.02196 115.33 5.54333 116.886 5.17828C117.702 4.98501 118.572 5.04943 119.351 5.35927C121.001 6.01576 122.036 7.58949 123.255 8.8135C123.839 9.39943 124.568 10.0682 125.435 10.0927V4.68744H130.549V9.58349H135.419V14.4182H130.549V20.5076C130.549 21.8942 131.067 22.5691 132.129 22.5691C132.854 22.5691 133.511 22.0874 133.52 22.0844L134.049 21.6917L136 26.1153L135.997 26.1123ZM121.16 17.0809C120.333 16.3232 119.24 15.9336 118.159 15.6667C117.178 15.4244 116.191 15.2434 115.222 14.9489C114.821 14.8262 114.424 14.6789 114.042 14.5102C111.263 13.277 109.53 11.8567 109.051 8.83191C107.706 7.94227 106.089 7.42997 104.313 7.42997C99.3858 7.42997 95.6714 11.3812 95.6714 16.6177C95.6714 21.8543 99.7229 25.8055 104.891 25.8055C106.538 25.8055 107.943 25.4128 109.048 24.9404V19.2836L108.94 19.3971C108.94 19.3971 107.465 20.9002 104.891 20.9002C102.98 20.9002 101.661 19.7222 101.12 18.6516H109.048C109.045 17.0043 111.369 16.8693 112.407 17.4859C113.939 18.3939 114.231 20.4462 115.547 21.5843C117.001 22.8452 119.186 22.8574 120.757 21.8113C122.539 20.6241 122.762 18.5473 121.157 17.0779M101.014 14.544C101.33 13.55 102.26 12.2953 104.31 12.2953C106.36 12.2953 107.417 13.5101 107.73 14.544H101.014ZM99.1751 32.217V38.7696H99.1961L98.6935 39.2819H99.7891L97.7272 41.3833H96.6316L97.1343 40.8709H96.8212V33.3704L97.953 32.217H99.1751ZM102.474 40.8709L103.287 40.0396V38.7665H100.292L98.2299 40.8679H102.474V40.8709ZM96.4389 31.9746V33.1281L97.5707 31.9746H96.4389ZM107.916 35.5577H109.084L110.384 34.2294H107.913V35.5577H107.916ZM113.024 33.6711H111.059L109.208 35.5577H112.046V37.4719H107.919V38.8616H112.537V40.9262H107.034L105.571 39.4383V32.1648H112.473L113.024 31.6034V33.668V33.6711ZM124.348 37.2787H123.03L120.908 32.1648H118.638L115.769 39.0794V40.8802H117.482L118.807 37.4811H118.795L119.752 35.0209L119.758 35.0362L119.764 35.0209L120.634 37.2787H121.952L122.741 39.3279H121.422L122.018 40.8802H123.885V39.3494L123.876 39.3248H125.194L124.345 37.2756L124.348 37.2787ZM133.249 35.751C133.306 35.6129 133.336 35.4595 133.336 35.2877V35.2632C133.336 35.0301 133.285 34.8399 133.192 34.6773H132.412C132.355 34.5791 132.289 34.4871 132.198 34.4134C131.958 34.2171 131.626 34.122 131.196 34.122H130.091V34.6773H130.871V35.754H130.091V36.4228H131.208C131.629 36.4228 131.958 36.3216 132.198 36.1191C132.319 36.0178 132.409 35.8951 132.469 35.7571H133.249V35.751ZM134.639 36.5302C134.456 36.9167 134.206 37.2419 133.881 37.5057C133.556 37.7695 133.171 37.9658 132.722 38.0978C132.274 38.2297 131.786 38.2971 131.259 38.2971H130.094V39.285L128.637 40.7697H127.74V35.751H128.52V34.6742H127.74V33.579L129.176 32.1157H131.38C131.912 32.1157 132.4 32.1832 132.836 32.3182C133.273 32.4532 133.646 32.6526 133.953 32.9133C134.26 33.1741 134.498 33.4931 134.664 33.8705C134.772 34.1159 134.841 34.3858 134.877 34.6742H135.657C135.678 34.8307 135.693 34.9902 135.693 35.1558V35.1804C135.693 35.3798 135.675 35.5669 135.648 35.751H134.868C134.826 36.0332 134.751 36.2939 134.642 36.5302M81.792 41.8495C81.2683 41.8495 80.8078 41.7238 80.4104 41.4753C80.0161 41.2268 79.7121 40.8679 79.5074 40.4016V41.644H78.6646V33.3919H79.7302V36.6467C79.9529 36.2234 80.2509 35.9105 80.6272 35.708C81.0034 35.5055 81.4218 35.4012 81.8793 35.4012C82.4482 35.4012 82.9449 35.5424 83.3663 35.8185C83.7877 36.0976 84.1158 36.4688 84.3536 36.9382C84.5914 37.4045 84.7088 37.926 84.7088 38.4966V38.699C84.7088 39.2635 84.5854 39.785 84.3416 40.2635C84.0977 40.7421 83.7576 41.1256 83.3211 41.4109C82.8847 41.6962 82.376 41.8403 81.792 41.8403V41.8495ZM81.6686 40.9016C82.069 40.9016 82.4151 40.8035 82.7101 40.6071C83.0051 40.4108 83.2339 40.1408 83.3964 39.8003C83.5589 39.4598 83.6402 39.061 83.6402 38.607C83.6402 37.929 83.4596 37.383 83.0954 36.9719C82.7342 36.5608 82.2556 36.3553 81.6656 36.3553C81.3104 36.3553 80.9823 36.4351 80.6783 36.5976C80.3743 36.7602 80.1335 36.9934 79.9529 37.2971C79.7723 37.6039 79.682 37.9689 79.682 38.3984V38.9199C79.682 39.334 79.7753 39.6899 79.9589 39.9813C80.1425 40.2758 80.3864 40.5028 80.6904 40.6593C80.9944 40.8157 81.3195 40.8955 81.6656 40.8955L81.6686 40.9016ZM87.5021 41.5121L85.383 35.6098H86.4697L88.1884 40.6071H88.4202L89.874 35.6098H90.9155L88.9409 42.2913C88.7633 42.8864 88.4774 43.319 88.0861 43.592C87.6947 43.862 87.1951 44 86.5901 44H85.8014V43.0275H86.6563C87.0265 43.0275 87.3155 42.9509 87.5262 42.8005C87.7369 42.6502 87.8964 42.3864 88.0078 42.0091L88.1523 41.5121H87.4991H87.5021Z" fill="#1E1353" fill-opacity="0.24"></path>
+      </svg>
+    </div>
+  </a>
+          
+  <h2 class="visually-hidden" id="block-mainnavigation-menu">Main navigation</h2>
+  
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu' -->
+<!-- FILE NAME SUGGESTIONS:
+   * menu--extras--main--primary-menu.html.twig
+   * menu--extras--main.html.twig
+   x menu--extras.html.twig
+   * menu--main.html.twig
+   * menu.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/menu_item_extras/templates/menu--extras.html.twig' -->
+
+
+  <ul data-region="primary_menu" id="block-mainnavigation" class="clearfix menu menu-level-0">
+      
+    <li class="menu-item">
+      <a href="https://deepfest.com/" data-drupal-link-system-path="&lt;front&gt;" class="is-active">Home</a>
+                    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu_link_content' -->
+<!-- FILE NAME SUGGESTIONS:
+   * menu-link-content--main--standard.front-page--default.html.twig
+   * menu-link-content--main--standard.front-page.html.twig
+   * menu-link-content--main--menu-level-0--default.html.twig
+   * menu-link-content--main--menu-level-0.html.twig
+   * menu-link-content--menu-level-0.html.twig
+   * menu-link-content--main--default.html.twig
+   * menu-link-content--main.html.twig
+   * menu-link-content--default.html.twig
+   x menu-link-content.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/menu_item_extras/templates/menu-link-content.html.twig' -->
+
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+<!-- END OUTPUT from 'modules/contrib/menu_item_extras/templates/menu-link-content.html.twig' -->
+
+
+          </li>
+      
+    <li class="menu-item">
+      <a href="https://deepfest.com/agenda" modal="0" data-drupal-link-system-path="agenda">Agenda</a>
+                    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu_link_content' -->
+<!-- FILE NAME SUGGESTIONS:
+   * menu-link-content--main--6--default.html.twig
+   * menu-link-content--main--6.html.twig
+   * menu-link-content--main--menu-level-0--default.html.twig
+   * menu-link-content--main--menu-level-0.html.twig
+   * menu-link-content--menu-level-0.html.twig
+   * menu-link-content--main--default.html.twig
+   * menu-link-content--main.html.twig
+   * menu-link-content--default.html.twig
+   x menu-link-content.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/menu_item_extras/templates/menu-link-content.html.twig' -->
+
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--menu-link-content--field-menu-item-image--main.html.twig
+   * field--menu-link-content--field-menu-item-image.html.twig
+   * field--menu-link-content--main.html.twig
+   * field--field-menu-item-image.html.twig
+   * field--image.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/field/field.html.twig' -->
+
+            <div class="field field--name-field-menu-item-image field--type-image field--label-hidden field__item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/menu4.png" width="504" height="667" alt="" loading="lazy" typeof="foaf:Image">
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+
+</div>
+      
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/field/field.html.twig' -->
+
+
+      </div>
+
+
+
+<!-- END OUTPUT from 'modules/contrib/menu_item_extras/templates/menu-link-content.html.twig' -->
+
+
+          </li>
+      
+    <li class="menu-item">
+      <a href="https://deepfest.com/speakers" modal="0" data-drupal-link-system-path="speakers">Speakers</a>
+                    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu_link_content' -->
+<!-- FILE NAME SUGGESTIONS:
+   * menu-link-content--main--7--default.html.twig
+   * menu-link-content--main--7.html.twig
+   * menu-link-content--main--menu-level-0--default.html.twig
+   * menu-link-content--main--menu-level-0.html.twig
+   * menu-link-content--menu-level-0.html.twig
+   * menu-link-content--main--default.html.twig
+   * menu-link-content--main.html.twig
+   * menu-link-content--default.html.twig
+   x menu-link-content.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/menu_item_extras/templates/menu-link-content.html.twig' -->
+
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--menu-link-content--field-menu-item-image--main.html.twig
+   * field--menu-link-content--field-menu-item-image.html.twig
+   * field--menu-link-content--main.html.twig
+   * field--field-menu-item-image.html.twig
+   * field--image.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/field/field.html.twig' -->
+
+            <div class="field field--name-field-menu-item-image field--type-image field--label-hidden field__item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/menu3.png" width="504" height="667" alt="" loading="lazy" typeof="foaf:Image">
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+
+</div>
+      
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/field/field.html.twig' -->
+
+
+      </div>
+
+
+
+<!-- END OUTPUT from 'modules/contrib/menu_item_extras/templates/menu-link-content.html.twig' -->
+
+
+          </li>
+      
+    <li class="menu-item menu-item--expanded">
+      <a href="https://deepfest.com/partner-with-us">Partner with us</a>
+                    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu_link_content' -->
+<!-- FILE NAME SUGGESTIONS:
+   * menu-link-content--main--8--default.html.twig
+   * menu-link-content--main--8.html.twig
+   * menu-link-content--main--menu-level-0--default.html.twig
+   * menu-link-content--main--menu-level-0.html.twig
+   * menu-link-content--menu-level-0.html.twig
+   * menu-link-content--main--default.html.twig
+   * menu-link-content--main.html.twig
+   * menu-link-content--default.html.twig
+   x menu-link-content.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/menu_item_extras/templates/menu-link-content.html.twig' -->
+
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu_levels' -->
+<!-- FILE NAME SUGGESTIONS:
+   * menu-levels--main--level-1.html.twig
+   * menu-levels--main.html.twig
+   * menu-levels--level-1.html.twig
+   x menu-levels.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/menu_item_extras/templates/menu-levels.html.twig' -->
+
+  <ul class="menu menu-level-1">
+      
+    <li class="menu-item">
+      <a href="https://deepfest.com/meet-our-partners" data-drupal-link-system-path="node/169">Meet our partners</a>
+                    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu_link_content' -->
+<!-- FILE NAME SUGGESTIONS:
+   * menu-link-content--main--9--default.html.twig
+   * menu-link-content--main--9.html.twig
+   * menu-link-content--main--menu-level-1--default.html.twig
+   * menu-link-content--main--menu-level-1.html.twig
+   * menu-link-content--menu-level-1.html.twig
+   * menu-link-content--main--default.html.twig
+   * menu-link-content--main.html.twig
+   * menu-link-content--default.html.twig
+   x menu-link-content.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/menu_item_extras/templates/menu-link-content.html.twig' -->
+
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+<!-- END OUTPUT from 'modules/contrib/menu_item_extras/templates/menu-link-content.html.twig' -->
+
+
+          </li>
+    </ul>
+
+
+
+<!-- END OUTPUT from 'modules/contrib/menu_item_extras/templates/menu-levels.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--menu-link-content--field-menu-item-image--main.html.twig
+   * field--menu-link-content--field-menu-item-image.html.twig
+   * field--menu-link-content--main.html.twig
+   * field--field-menu-item-image.html.twig
+   * field--image.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/field/field.html.twig' -->
+
+            <div class="field field--name-field-menu-item-image field--type-image field--label-hidden field__item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/menu2.png" width="504" height="667" alt="" loading="lazy" typeof="foaf:Image">
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+
+</div>
+      
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/field/field.html.twig' -->
+
+
+      </div>
+
+
+
+<!-- END OUTPUT from 'modules/contrib/menu_item_extras/templates/menu-link-content.html.twig' -->
+
+
+          </li>
+      
+    <li class="menu-item menu-item--expanded">
+      <a href="https://deepfest.com/discover-leap" data-drupal-link-system-path="node/27">Discover leap</a>
+                    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu_link_content' -->
+<!-- FILE NAME SUGGESTIONS:
+   * menu-link-content--main--10--default.html.twig
+   * menu-link-content--main--10.html.twig
+   * menu-link-content--main--menu-level-0--default.html.twig
+   * menu-link-content--main--menu-level-0.html.twig
+   * menu-link-content--menu-level-0.html.twig
+   * menu-link-content--main--default.html.twig
+   * menu-link-content--main.html.twig
+   * menu-link-content--default.html.twig
+   x menu-link-content.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/menu_item_extras/templates/menu-link-content.html.twig' -->
+
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu_levels' -->
+<!-- FILE NAME SUGGESTIONS:
+   * menu-levels--main--level-1.html.twig
+   * menu-levels--main.html.twig
+   * menu-levels--level-1.html.twig
+   x menu-levels.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/menu_item_extras/templates/menu-levels.html.twig' -->
+
+  <ul class="menu menu-level-1">
+      
+    <li class="menu-item">
+      <a href="https://www.onegiantleap.com/en/home.html" modal="0">Visit Leap Site</a>
+                    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu_link_content' -->
+<!-- FILE NAME SUGGESTIONS:
+   * menu-link-content--main--11--default.html.twig
+   * menu-link-content--main--11.html.twig
+   * menu-link-content--main--menu-level-1--default.html.twig
+   * menu-link-content--main--menu-level-1.html.twig
+   * menu-link-content--menu-level-1.html.twig
+   * menu-link-content--main--default.html.twig
+   * menu-link-content--main.html.twig
+   * menu-link-content--default.html.twig
+   x menu-link-content.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/menu_item_extras/templates/menu-link-content.html.twig' -->
+
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+<!-- END OUTPUT from 'modules/contrib/menu_item_extras/templates/menu-link-content.html.twig' -->
+
+
+          </li>
+    </ul>
+
+
+
+<!-- END OUTPUT from 'modules/contrib/menu_item_extras/templates/menu-levels.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--menu-link-content--field-menu-item-image--main.html.twig
+   * field--menu-link-content--field-menu-item-image.html.twig
+   * field--menu-link-content--main.html.twig
+   * field--field-menu-item-image.html.twig
+   * field--image.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/field/field.html.twig' -->
+
+            <div class="field field--name-field-menu-item-image field--type-image field--label-hidden field__item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/menu1.png" width="504" height="667" alt="" loading="lazy" typeof="foaf:Image">
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+
+</div>
+      
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/field/field.html.twig' -->
+
+
+      </div>
+
+
+
+<!-- END OUTPUT from 'modules/contrib/menu_item_extras/templates/menu-link-content.html.twig' -->
+
+
+          </li>
+    </ul>
+
+
+<!-- END OUTPUT from 'modules/contrib/menu_item_extras/templates/menu--extras.html.twig' -->
+
+
+    <div class="menu-register-button">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--registernowbutton.html.twig
+   * block--block-content--547416e1-48e8-41a3-965b-8eebbcad5a25.html.twig
+   * block--block-content.html.twig
+   * block--bundle--button-link.html.twig
+   * block--block-content.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/block/block.html.twig' -->
+<div id="block-registernowbutton" class="block block-block-content block-block-content547416e1-48e8-41a3-965b-8eebbcad5a25">
+  
+    
+      <div class="content">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--field-button-link--button-link.html.twig
+   * field--block-content--field-button-link.html.twig
+   * field--block-content--button-link.html.twig
+   * field--field-button-link.html.twig
+   * field--link.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/field/field.html.twig' -->
+
+  <div class="field field--name-field-button-link field--type-link field--label-above">
+    <div class="field__label">Button Link</div>
+              <div class="field__item"><a href="https://deepfest.com/">Register now</a></div>
+          </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/field/field.html.twig' -->
+
+
+    </div>
+  </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/block/block.html.twig' -->
+
+
+    </div>
+    <div class="menu-social-icons">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--menusocialicons.html.twig
+   * block--block-content--40de43eb-75e8-4387-8de5-154399589733.html.twig
+   * block--block-content.html.twig
+   * block--bundle--social-icons.html.twig
+   * block--block-content.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/block/block.html.twig' -->
+<div id="block-menusocialicons" class="block block-block-content block-block-content40de43eb-75e8-4387-8de5-154399589733">
+  
+    
+      <div class="content">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'linkicon' -->
+<!-- BEGIN OUTPUT from 'modules/contrib/linkicon/templates/linkicon.html.twig' -->
+
+<div class="item-list item-list--linkicon">
+  <ul id="linkicon-block-content-social-icons-field-social-icons-10" class="linkicon"><li>
+        <a href="https://deepfest.com/" class="linkicon__item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'linkicon_item' -->
+<!-- BEGIN OUTPUT from 'modules/contrib/linkicon/templates/linkicon-item.html.twig' -->
+      <span aria-hidden="true" class="linkicon__icon icon fa fa-no-icon"></span>
+    <span class="linkicon__text">#DeepFest23</span>
+  
+<!-- END OUTPUT from 'modules/contrib/linkicon/templates/linkicon-item.html.twig' -->
+
+</a>
+      </li><li>
+        <a href="https://twitter.com/LEAPandInnovate" class="linkicon__item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'linkicon_item' -->
+<!-- BEGIN OUTPUT from 'modules/contrib/linkicon/templates/linkicon-item.html.twig' -->
+      <span aria-hidden="true" class="linkicon__icon icon fa fa-twitter"></span>
+    <span class="linkicon__text">Twitter</span>
+  
+<!-- END OUTPUT from 'modules/contrib/linkicon/templates/linkicon-item.html.twig' -->
+
+</a>
+      </li><li>
+        <a href="https://www.facebook.com/LEAPandInnovate" class="linkicon__item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'linkicon_item' -->
+<!-- BEGIN OUTPUT from 'modules/contrib/linkicon/templates/linkicon-item.html.twig' -->
+      <span aria-hidden="true" class="linkicon__icon icon fa fa-facebook"></span>
+    <span class="linkicon__text">Facebook</span>
+  
+<!-- END OUTPUT from 'modules/contrib/linkicon/templates/linkicon-item.html.twig' -->
+
+</a>
+      </li><li>
+        <a href="https://www.linkedin.com/company/leap-expo/" class="linkicon__item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'linkicon_item' -->
+<!-- BEGIN OUTPUT from 'modules/contrib/linkicon/templates/linkicon-item.html.twig' -->
+      <span aria-hidden="true" class="linkicon__icon icon fa fa-instagram"></span>
+    <span class="linkicon__text">Instagram</span>
+  
+<!-- END OUTPUT from 'modules/contrib/linkicon/templates/linkicon-item.html.twig' -->
+
+</a>
+      </li><li>
+        <a href="https://www.snapchat.com/add/leapandinnovate" class="linkicon__item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'linkicon_item' -->
+<!-- BEGIN OUTPUT from 'modules/contrib/linkicon/templates/linkicon-item.html.twig' -->
+      <span aria-hidden="true" class="linkicon__icon icon fa fa-youtube"></span>
+    <span class="linkicon__text">Youtube</span>
+  
+<!-- END OUTPUT from 'modules/contrib/linkicon/templates/linkicon-item.html.twig' -->
+
+</a>
+      </li></ul>
+</div>
+
+<!-- END OUTPUT from 'modules/contrib/linkicon/templates/linkicon.html.twig' -->
+
+
+    </div>
+  </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/block/block.html.twig' -->
+
+
+    </div>
+  </nav>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/block/block--system-menu-block--main.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/layout/region--nowrap.html.twig' -->
+
+
+                                	            </div>
+                                          </nav>
+          </header>
+          <div class="highlighted">
+        <aside class="container-fluid section clearfix" role="complementary">
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   x region--nowrap.html.twig
+   * region--highlighted.html.twig
+   * region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/layout/region--nowrap.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--deepfest-theme-messages.html.twig
+   x block--system-messages-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/block--system-messages-block.html.twig' -->
+<div data-drupal-messages-fallback="" class="hidden"></div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/block--system-messages-block.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/layout/region--nowrap.html.twig' -->
+
+
+        </aside>
+      </div>
+            <div id="main-wrapper" class="layout-main-wrapper clearfix">
+      
+      
+              <div id="main" class="container-fluid p-0">
+          
+          <div class="row row-offcanvas row-offcanvas-left clearfix">
+              <main class="main-content col" id="content" role="main">
+                <section class="section">
+                  <a id="main-content" tabindex="-1"></a>
+                  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   x region--nowrap.html.twig
+   * region--content.html.twig
+   * region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/layout/region--nowrap.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--topbannerblock.html.twig
+   * block--block-content--4cf74871-527e-4e3c-92b5-6ca719ad6462.html.twig
+   * block--block-content.html.twig
+   x block--bundle--top-banner.html.twig
+   * block--block-content.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/block/block--bundle--top-banner.html.twig' -->
+<script type="text/javascript">
+      var large = "https://files.deepfest.com/files/2022-09/DF%20dt_main_2.mp4?VersionId=05Cc.JVpHc8cUewZPDvx7usJ0DO1jHRG";
+      var medium = "https://files.deepfest.com/files/2022-09/DF%20tab_3.mp4?VersionId=MVCQHCujEEqAMFBxLwuHbaSAf1LeLjsM";
+      var small = "https://files.deepfest.com/files/2022-09/DF%20mob_2.mp4?VersionId=rw5PbMjv1obbnb1zMt20i5jeCKe0AEzC";
+</script>
+
+<div id="block-topbannerblock" class="block block-block-content block-block-content4cf74871-527e-4e3c-92b5-6ca719ad6462 blackhat-hero">
+  
+  
+
+  <div class="blackhat-hero__media">
+              <video autoplay="" muted="" loop="" id="heroVideo" playsinline="" preload="metadata" class="d-sm-none"><source type="video/mp4" src="https://files.deepfest.com/files/2022-09/DF%20mob_2.mp4?VersionId=rw5PbMjv1obbnb1zMt20i5jeCKe0AEzC"></video>
+      <video autoplay="" muted="" loop="" id="heroVideo" playsinline="" preload="metadata" class="d-none d-sm-block d-lg-none"><source type="video/mp4" src="https://files.deepfest.com/files/2022-09/DF%20tab_3.mp4?VersionId=MVCQHCujEEqAMFBxLwuHbaSAf1LeLjsM"></video>
+      <video autoplay="" muted="" loop="" id="heroVideo" playsinline="" preload="metadata" class="d-none d-lg-block "><source type="video/mp4" src="https://files.deepfest.com/files/2022-09/DF%20dt_main_2.mp4?VersionId=05Cc.JVpHc8cUewZPDvx7usJ0DO1jHRG"></video>
+    </div>
+  <div class="blackhat-hero__content">
+    <div class="df-sub-title"><h5>artificial intelligence</h5></div>
+    <div class="df-title"><h1>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--field-title--top-banner.html.twig
+   * field--block-content--field-title.html.twig
+   * field--block-content--top-banner.html.twig
+   * field--field-title.html.twig
+   x field--text.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text.html.twig' -->
+
+            <div class="clearfix text-formatted field field--name-field-title field--type-text field--label-hidden field__item">beyond<br> imagination</div>
+      
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text.html.twig' -->
+
+</h1></div>
+    <div class="df-cta d-block d-md-flex">
+                <div class="c1a-div button-primary">  <a target="_blank" href="https://deepfest.com/form/register-your-interest" class="c1a button-primary">register now</a></div>
+                        <div class="c2a-div button-primary">  <a target="_blank" href="https://deepfest.com/form/subscribe-webform" class="c2a button-primary">Subscribe</a></div>
+            </div>
+    <div class="df-downarrow">
+
+    </div>
+    <div class="df-address body-font-large-vw d-none d-md-block"><p>Riyadh Front Exhibition &amp;<br>
+Conference Centre</p>
+</div>
+    <div class="df-date body-font-large-vw d-none d-md-block">7-9 <br>February 2023</div>
+
+    <div class="df-social-links d-none d-md-block"></div>
+
+  </div>
+
+  <div class="df-date-mob body-font-large-vw ">7-9 <br>February 2023</div>
+  <div class="df-address-mob body-font-large-vw "><p>Riyadh Front Exhibition &amp;<br>
+Conference Centre</p>
+</div>
+
+</div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/block/block--bundle--top-banner.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   x block--views-block--visitors-info-block-1.html.twig
+   x block--views-block--visitors-info-block-1.html.twig
+   * block--views-block.html.twig
+   * block--views.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/block/block--views-block--visitors-info-block-1.html.twig' -->
+<div class="visitor-info-carousel1">
+
+<div class="views-element-container block block-views block-views-blockvisitors-info-block-1 visitor-info-carousel container-fluid" id="block-views-block-visitors-info-block-1">
+  
+    
+      <div class="content">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/container.html.twig' -->
+<div>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view__visitors_info' -->
+<!-- FILE NAME SUGGESTIONS:
+   * views-view--visitors-info.html.twig
+   * views-view--visitors-info.html.twig
+   * views-view.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/views/views-view--visitors_info.html.twig' -->
+
+<div class="view view-visitors-info view-id-visitors_info view-display-id-block_1 js-view-dom-id-cda54c8b61b9de5c4a97b7eb320627cf9be1bd63d1a17f6670d047e8195f72ef">
+  
+    
+      
+      <div class="view-content visitor-info owl-carousel owl-theme owl-loaded owl-drag" id="visitor-info-carousal">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_unformatted' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/views/views-view-unformatted.html.twig' -->
+    
+    
+    
+    
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/views/views-view-unformatted.html.twig' -->
+
+
+    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-817px, 0px, 0px); transition: all 0s ease 0s; width: 2453px;"><div class="owl-item cloned" style="width: 204.406px;"><div class="visitor-info">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="visitor-info-content">
+<div class="visitor-number">100+ </div>
+<div class="visitor-title">speakers</div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item cloned" style="width: 204.406px;"><div class="visitor-info">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="visitor-info-content">
+<div class="visitor-number">20,000+ </div>
+<div class="visitor-title">visitors</div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item cloned" style="width: 204.406px;"><div class="visitor-info">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="visitor-info-content">
+<div class="visitor-number">120+ </div>
+<div class="visitor-title">exhibitors</div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item cloned" style="width: 204.406px;"><div class="visitor-info">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="visitor-info-content">
+<div class="visitor-number">1 </div>
+<div class="visitor-title">stage</div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item active" style="width: 204.406px;"><div class="visitor-info">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="visitor-info-content">
+<div class="visitor-number">100+ </div>
+<div class="visitor-title">speakers</div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item active" style="width: 204.406px;"><div class="visitor-info">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="visitor-info-content">
+<div class="visitor-number">20,000+ </div>
+<div class="visitor-title">visitors</div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item active" style="width: 204.406px;"><div class="visitor-info">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="visitor-info-content">
+<div class="visitor-number">120+ </div>
+<div class="visitor-title">exhibitors</div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item active" style="width: 204.406px;"><div class="visitor-info">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="visitor-info-content">
+<div class="visitor-number">1 </div>
+<div class="visitor-title">stage</div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item cloned" style="width: 204.406px;"><div class="visitor-info">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="visitor-info-content">
+<div class="visitor-number">100+ </div>
+<div class="visitor-title">speakers</div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item cloned" style="width: 204.406px;"><div class="visitor-info">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="visitor-info-content">
+<div class="visitor-number">20,000+ </div>
+<div class="visitor-title">visitors</div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item cloned" style="width: 204.406px;"><div class="visitor-info">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="visitor-info-content">
+<div class="visitor-number">120+ </div>
+<div class="visitor-title">exhibitors</div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item cloned" style="width: 204.406px;"><div class="visitor-info">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="visitor-info-content">
+<div class="visitor-number">1 </div>
+<div class="visitor-title">stage</div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots disabled"><button role="button" class="owl-dot active"><span></span></button></div></div>
+    
+  
+          </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/views/views-view--visitors_info.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/container.html.twig' -->
+
+
+    </div>
+  </div>
+
+<div class="owl-arrow d-flex visitors-info-owl-arrow">
+<div class="owl-arrow-prev"></div>
+<div class="owl-arrow-next"></div>
+</div>
+</div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/block/block--views-block--visitors-info-block-1.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--aboutdeepfest.html.twig
+   * block--block-content--980a879c-e43d-4c84-bccb-ce73c822a42a.html.twig
+   * block--block-content.html.twig
+   x block--bundle--text-and-image.html.twig
+   * block--block-content.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/block/block--bundle--text-and-image.html.twig' -->
+
+<style>
+    .about-bg {
+        background-repeat: no-repeat;
+        background-image: unset !important;
+
+    }
+    @media screen and (min-width: 576px){
+        .about-bg {
+          background-image: unset !important;
+          background-repeat: no-repeat;
+        }
+    }
+    @media screen and (min-width: 1280px){
+        .about-bg {
+          background-image: url(https://files.deepfest.com/files/2022-09/about%20bg%20desktop-1.jpg?VersionId=_NZUSETvF3bXxSWO4z1D31mMgcsj7phV) !important;
+          background-size: 100% 100% !important;
+        }
+    }
+</style>
+
+
+<div id="block-aboutdeepfest" class="block block-block-content block-block-content980a879c-e43d-4c84-bccb-ce73c822a42a about-section">
+  
+  
+    <div class="parallax-img-top fg-z-index rellax" data-rellax-speed="-2" style="transform: translate3d(0px, 1488px, 0px) translate3d(0px, 0px, 0px);"> 
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/df-asset00@4x 1 (1)-1.png" width="142" height="265" alt="image" loading="lazy" typeof="foaf:Image" style="transform: translate3d(0px, 744px, 0px);">
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+
+ </div>
+
+    <div class="about-bg about-section-content row df-container">
+        <div class="col-md-6 col-12 about-text p-0 fg-z-index">
+          <h1>about deepfest</h1>
+               <p><span class="about-title">DeepFest </span>is the premier meeting place for the global Artificial Intelligence ecosystem of thought-leaders, change-makers, big tech, data scientists, innovators, enterprises, academia, start-ups, and entrepreneurs leading innovation across businesses.</p>
+
+<p>The event will be co-located with LEAP, the award-winning technology event that broke records in February 2022 as the world’s largest tech event to ever launch. DeepFest will unveil government AI initiatives and latest innovations across many sectors through incorporating a thought-leadership conference and a series of sector dedicated tracks, trainings, live-demos, innovation sessions, start-up pitches and an exhibition that features the world’s top tech companies from across the world.</p>
+
+        </div>
+      <div class="col-6 about-img">
+        <div class="d-none d-lg-block">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Group 963-1_0.png" width="440" height="381" alt="alt" loading="lazy" typeof="foaf:Image">
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+
+</div>
+        <div class="d-md-block d-lg-none d-none">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Group 963_0-1_0.png" width="386" height="335" alt="alt" loading="lazy" typeof="foaf:Image">
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+
+ </div>
+      </div>
+    </div>
+
+    <div class="parallax-img-bottom bg-z-index rellax" data-rellax-speed="-2" style="transform: translate3d(0px, 1749px, 0px) translate3d(0px, 0px, 0px);"> 
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/dh-asset-02@4x 1 (1)-1.png" width="175" height="203" alt="image" loading="lazy" typeof="foaf:Image" style="transform: translate3d(0px, 875px, 0px);">
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+
+ </div>
+
+</div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/block/block--bundle--text-and-image.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--testimonials.html.twig
+   * block--block-content--daa0f87e-682f-48a9-a9ba-c2555ed286bc.html.twig
+   * block--block-content.html.twig
+   x block--bundle--testimonials.html.twig
+   * block--block-content.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/block/block--bundle--testimonials.html.twig' -->
+
+<style>
+  .testi-view{
+    background-image: url('https://files.deepfest.com/files/2022-09/testimonial%20bg%20mob-1.jpg?VersionId=YcUc6eLWBGtl7kAXirQHkvTgnUCQvM9m');
+    background-repeat: no-repeat;
+
+  }
+
+  @media screen and (min-width: 576px) {
+    .testi-view{
+      background-image: url('https://files.deepfest.com/files/2022-09/testimonial%20bg%20tab-1.jpg?VersionId=I3H.hxByoUwbBjDuHPkuy2won1vleVqO');
+      background-repeat: no-repeat;
+
+    }
+  }
+
+  @media screen and (min-width: 1280px) {
+    .testi-view {
+      background-image: url('https://files.deepfest.com/files/2022-09/testimonial%20bg%20desktop-1.jpg?VersionId=ibmoz9WU41uSSgf9BY2AnqzvxkoJmfI7');
+      background-repeat: no-repeat;
+      background-size: 100% 100% !important;
+    }
+  }
+</style>
+<div id="block-testimonials" class="block block-block-content block-block-contentdaa0f87e-682f-48a9-a9ba-c2555ed286bc testi-view">
+  
+    
+      <div class="overflow-hidden">
+       <div class="row">
+            <div class="col-md-12">
+                <div id="testimonial-slider-front" class="owl-carousel owl-theme owl-loaded owl-drag">
+                  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   x field--block-content--field-testimonial--testimonials.html.twig
+   * field--block-content--field-testimonial.html.twig
+   * field--block-content--testimonials.html.twig
+   * field--field-testimonial.html.twig
+   * field--entity-reference-revisions.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/field/field--block-content--field-testimonial--testimonials.html.twig' -->
+
+          
+                      
+                      
+                      
+        
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/field/field--block-content--field-testimonial--testimonials.html.twig' -->
+
+
+              <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2670px, 0px, 0px); transition: all 0s ease 0s; width: 9345px;"><div class="owl-item cloned" style="width: 1325px; margin-right: 10px;"><div class="testimonial">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--testimonial--default.html.twig
+   x paragraph--testimonial.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--testimonial.html.twig' -->
+  
+      
+    
+    <div class="textimonial-container">
+    <div class="row">
+      <div class="col-12 col-sm-5 col-md-6">
+        <div class="testimonial-image">
+          <img class="b-lazy" src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/partner-testimonial-christian-desktop_3.png" alt="" width="452" height="451" loading="lazy">
+        </div>
+      </div>
+      <div class="col-12 col-sm-7 col-md-6 verticle-center">
+        <div class="testimonial-detail-wrapper">
+          <div>
+            <p>“What an incredible event”</p>
+
+          </div>
+          <div class="testimonial-info">
+            <h3 class="testimonial-title">
+              Christian Klein
+            </h3>
+            <div class="testimonial-designation">
+              <small>CEO, SAP<br></small>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--testimonial.html.twig' -->
+
+
+        </div></div><div class="owl-item cloned" style="width: 1325px; margin-right: 10px;"><div class="testimonial">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--testimonial--default.html.twig
+   x paragraph--testimonial.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--testimonial.html.twig' -->
+  
+      
+    
+    <div class="textimonial-container">
+    <div class="row">
+      <div class="col-12 col-sm-5 col-md-6">
+        <div class="testimonial-image">
+          <img class="b-lazy" src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/StevenBarlet-Testimonial Image DT_0.png" alt="" width="451" height="463" loading="lazy">
+        </div>
+      </div>
+      <div class="col-12 col-sm-7 col-md-6 verticle-center">
+        <div class="testimonial-detail-wrapper">
+          <div>
+            <p>“I've been to a lot of conferences and conventions around the world, and LEAP really feels like it's in a class of its own.”</p>
+
+          </div>
+          <div class="testimonial-info">
+            <h3 class="testimonial-title">
+              Steven Bartlett
+            </h3>
+            <div class="testimonial-designation">
+              <small>CEO<br>Social Chain</small>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--testimonial.html.twig' -->
+
+
+        </div></div><div class="owl-item active" style="width: 1325px; margin-right: 10px;"><div class="testimonial">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--testimonial--default.html.twig
+   x paragraph--testimonial.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--testimonial.html.twig' -->
+  
+      
+    
+    <div class="textimonial-container">
+    <div class="row">
+      <div class="col-12 col-sm-5 col-md-6">
+        <div class="testimonial-image">
+          <img class="b-lazy" src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Testimonial Image DT.png" alt="" width="451" height="463" loading="lazy">
+        </div>
+      </div>
+      <div class="col-12 col-sm-7 col-md-6 verticle-center">
+        <div class="testimonial-detail-wrapper">
+          <div>
+            <p>“Technology and innovation have enormous potential to transform economies and societies. We live in a time where you either leap or be left behind. We are proud to host LEAP to help the region lead and leapfrog with technology and innovation”</p>
+
+          </div>
+          <div class="testimonial-info">
+            <h3 class="testimonial-title">
+              Abdullah Alswaha
+            </h3>
+            <div class="testimonial-designation">
+              <small>Minister of Communications and <br>Information Technology</small>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--testimonial.html.twig' -->
+
+
+        </div></div><div class="owl-item" style="width: 1325px; margin-right: 10px;"><div class="testimonial">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--testimonial--default.html.twig
+   x paragraph--testimonial.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--testimonial.html.twig' -->
+  
+      
+    
+    <div class="textimonial-container">
+    <div class="row">
+      <div class="col-12 col-sm-5 col-md-6">
+        <div class="testimonial-image">
+          <img class="b-lazy" src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/partner-testimonial-christian-desktop_3.png" alt="" width="452" height="451" loading="lazy">
+        </div>
+      </div>
+      <div class="col-12 col-sm-7 col-md-6 verticle-center">
+        <div class="testimonial-detail-wrapper">
+          <div>
+            <p>“What an incredible event”</p>
+
+          </div>
+          <div class="testimonial-info">
+            <h3 class="testimonial-title">
+              Christian Klein
+            </h3>
+            <div class="testimonial-designation">
+              <small>CEO, SAP<br></small>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--testimonial.html.twig' -->
+
+
+        </div></div><div class="owl-item" style="width: 1325px; margin-right: 10px;"><div class="testimonial">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--testimonial--default.html.twig
+   x paragraph--testimonial.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--testimonial.html.twig' -->
+  
+      
+    
+    <div class="textimonial-container">
+    <div class="row">
+      <div class="col-12 col-sm-5 col-md-6">
+        <div class="testimonial-image">
+          <img class="b-lazy" src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/StevenBarlet-Testimonial Image DT_0.png" alt="" width="451" height="463" loading="lazy">
+        </div>
+      </div>
+      <div class="col-12 col-sm-7 col-md-6 verticle-center">
+        <div class="testimonial-detail-wrapper">
+          <div>
+            <p>“I've been to a lot of conferences and conventions around the world, and LEAP really feels like it's in a class of its own.”</p>
+
+          </div>
+          <div class="testimonial-info">
+            <h3 class="testimonial-title">
+              Steven Bartlett
+            </h3>
+            <div class="testimonial-designation">
+              <small>CEO<br>Social Chain</small>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--testimonial.html.twig' -->
+
+
+        </div></div><div class="owl-item cloned" style="width: 1325px; margin-right: 10px;"><div class="testimonial">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--testimonial--default.html.twig
+   x paragraph--testimonial.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--testimonial.html.twig' -->
+  
+      
+    
+    <div class="textimonial-container">
+    <div class="row">
+      <div class="col-12 col-sm-5 col-md-6">
+        <div class="testimonial-image">
+          <img class="b-lazy" src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Testimonial Image DT.png" alt="" width="451" height="463" loading="lazy">
+        </div>
+      </div>
+      <div class="col-12 col-sm-7 col-md-6 verticle-center">
+        <div class="testimonial-detail-wrapper">
+          <div>
+            <p>“Technology and innovation have enormous potential to transform economies and societies. We live in a time where you either leap or be left behind. We are proud to host LEAP to help the region lead and leapfrog with technology and innovation”</p>
+
+          </div>
+          <div class="testimonial-info">
+            <h3 class="testimonial-title">
+              Abdullah Alswaha
+            </h3>
+            <div class="testimonial-designation">
+              <small>Minister of Communications and <br>Information Technology</small>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--testimonial.html.twig' -->
+
+
+        </div></div><div class="owl-item cloned" style="width: 1325px; margin-right: 10px;"><div class="testimonial">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--testimonial--default.html.twig
+   x paragraph--testimonial.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--testimonial.html.twig' -->
+  
+      
+    
+    <div class="textimonial-container">
+    <div class="row">
+      <div class="col-12 col-sm-5 col-md-6">
+        <div class="testimonial-image">
+          <img class="b-lazy" src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/partner-testimonial-christian-desktop_3.png" alt="" width="452" height="451" loading="lazy">
+        </div>
+      </div>
+      <div class="col-12 col-sm-7 col-md-6 verticle-center">
+        <div class="testimonial-detail-wrapper">
+          <div>
+            <p>“What an incredible event”</p>
+
+          </div>
+          <div class="testimonial-info">
+            <h3 class="testimonial-title">
+              Christian Klein
+            </h3>
+            <div class="testimonial-designation">
+              <small>CEO, SAP<br></small>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--testimonial.html.twig' -->
+
+
+        </div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="parallax-img-bottom bg-z-index rellax" data-rellax-speed="-1" style="transform: translate3d(0px, 354px, 0px) translate3d(0px, 0px, 0px);"> 
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/dh-asset-02@4x 2.png" width="140" height="137" alt="image" loading="lazy" typeof="foaf:Image" style="transform: translate3d(0px, 879px, 0px);">
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+
+ </div>
+</div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/block/block--bundle--testimonials.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--discovermoreaboutdeepfest.html.twig
+   * block--block-content--176cf342-775d-47ed-9662-ff64b3c20653.html.twig
+   * block--block-content.html.twig
+   x block--bundle--discover-video.html.twig
+   * block--block-content.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/block/block--bundle--discover-video.html.twig' -->
+
+<script type="text/javascript">
+      var large = "https://files.deepfest.com/files/2022-09/2021%20highlights-dt_2.png?VersionId=bzshoOhcj5E21WPbuYvWYOzJIRr6rGdB";
+      var medium = "https://files.deepfest.com/files/2022-09/2021%20highlights-dt_3.png?VersionId=gOJlXcAo4gyr.Eevi0VSPQ4t7MeFnzmV";
+      var small = "https://files.deepfest.com/files/2022-09/2021%20highlights-sm_0.png?VersionId=Tckinr06GmH580itBcnbpNB3_9hos7RN";
+</script>
+
+<div id="block-discovermoreaboutdeepfest" class="block block-block-content block-block-content176cf342-775d-47ed-9662-ff64b3c20653 discover-video">
+  
+  
+  <div class="parallax-img-bottom fg-z-index rellax" data-rellax-speed="-1" style="transform: translate3d(0px, 306px, 0px) translate3d(0px, 0px, 0px);"> 
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/dh-asset-02@4x 6-1_0.png" width="132" height="166" alt="image" loading="lazy" typeof="foaf:Image" style="transform: translate3d(0px, 845px, 0px);">
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+
+ </div>
+  <div class="discover__media df-container-discover">
+  <div class="df-container">
+    <h1>DISCOVER LEAP’S 2022 HIGHLIGHTS</h1>
+  </div>
+                  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--field-video--discover-video.html.twig
+   * field--block-content--field-video.html.twig
+   * field--block-content--discover-video.html.twig
+   * field--field-video.html.twig
+   * field--video.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/field/field.html.twig' -->
+
+            <div class="field field--name-field-video field--type-video field--label-hidden field__item"><iframe width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen" src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/0ZHNABy7giA.html"></iframe>
+</div>
+      
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/field/field.html.twig' -->
+
+
+
+  </div>
+  <div class="parallax-img-bottom2  rellax3"> 
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/dh-asset-02@4x 4 (1).png" width="207" height="285" alt="image" loading="lazy" typeof="foaf:Image" style="transform: translate3d(0px, 727px, 0px) translate3d(0px, 0px, 0px);">
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+
+ </div>
+  <div class="parallax-img-bottom3  rellax3"> 
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/dh-asset-02@4x 5.png" width="112" height="107" alt="image" loading="lazy" typeof="foaf:Image" style="transform: translate3d(0px, 918px, 0px) translate3d(0px, 0px, 0px);">
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+
+ </div>
+
+</div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/block/block--bundle--discover-video.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   x block--views-block--speaker-frontpage-block-1.html.twig
+   x block--views-block--speaker-frontpage-block-1.html.twig
+   * block--views-block.html.twig
+   * block--views.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/block/block--views-block--speaker-frontpage-block-1.html.twig' -->
+<div class="container-fluid p-0 speaker-carousel1">
+  
+    
+      <div class="content">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/container.html.twig' -->
+<div>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view__speaker_frontpage' -->
+<!-- FILE NAME SUGGESTIONS:
+   * views-view--speaker-frontpage.html.twig
+   * views-view--speaker-frontpage.html.twig
+   * views-view.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/views/views-view--speaker_frontpage.html.twig' -->
+
+<div class="content-speakers view view-speaker-frontpage view-id-speaker_frontpage view-display-id-block_1 js-view-dom-id-da67075e0412e076bbf84ec4a2062746c061d341c8c869dc93dbf5daff2bca3c">
+  
+    
+      <div class="view-header">
+      <div class="speaker-header"><h1>experts who will step on stage</h1></div>
+    </div>
+      
+      <div class="view-content speakers owl-carousel owl-theme owl-loaded owl-drag" id="speakers-carousal">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_unformatted' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/views/views-view-unformatted.html.twig' -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/views/views-view-unformatted.html.twig' -->
+
+
+    <div class="owl-stage-outer"><div class="owl-stage" style="transition: all 0s ease 0s; width: 6795px; transform: translate3d(-1189px, 0px, 0px);"><div class="owl-item cloned" style="width: 329.75px; margin-right: 10px;"><div class="views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="speaker-item">
+  <a href="https://deepfest.com/jack-jean-mccauley">
+<div class="fontawesome-speaker"><div class="speaker-hover-arrow"></div></div>
+</a>
+  <div class="speaker-img">
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Jack_Jean_McCauley_Photo.png" width="322" height="410" alt="" loading="lazy" typeof="Image" class="image-style-speaker">
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="speaker-hover">
+   </div>
+  <div class="speaker-body">
+  <div class="speaker-title"><a href="https://deepfest.com/jack-jean-mccauley" hreflang="en"><span>Jack Jean</span> McCauley</a> </div>
+  <div class="speaker-designation">Co-Founder</div>
+  </div>
+  </div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item cloned" style="width: 329.75px; margin-right: 10px;"><div class="views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="speaker-item">
+  <a href="https://deepfest.com/elizabeth-adams">
+<div class="fontawesome-speaker"><div class="speaker-hover-arrow"></div></div>
+</a>
+  <div class="speaker-img">
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Elizabeth_Adams_Photo.png" width="322" height="410" alt="" loading="lazy" typeof="Image" class="image-style-speaker">
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="speaker-hover">
+   </div>
+  <div class="speaker-body">
+  <div class="speaker-title"><a href="https://deepfest.com/elizabeth-adams" hreflang="en"><span>Elizabeth</span> Adams</a> </div>
+  <div class="speaker-designation">TechnologyLiz</div>
+  </div>
+  </div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item cloned" style="width: 329.75px; margin-right: 10px;"><div class="views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="speaker-item">
+  <a href="https://deepfest.com/cassie-kozyrkov">
+<div class="fontawesome-speaker"><div class="speaker-hover-arrow"></div></div>
+</a>
+  <div class="speaker-img">
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Cassie_Kozyrkov_Photo.png" width="322" height="410" alt="" loading="lazy" typeof="Image" class="image-style-speaker">
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="speaker-hover">
+   </div>
+  <div class="speaker-body">
+  <div class="speaker-title"><a href="https://deepfest.com/cassie-kozyrkov" hreflang="en"><span>Cassie</span> Kozyrkov</a> </div>
+  <div class="speaker-designation">Chief Decision Scientist</div>
+  </div>
+  </div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item cloned" style="width: 329.75px; margin-right: 10px;"><div class="views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="speaker-item">
+  <a href="https://deepfest.com/dr-benjamin-goertzel">
+<div class="fontawesome-speaker"><div class="speaker-hover-arrow"></div></div>
+</a>
+  <div class="speaker-img">
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Ben_Goertzel_Photo_0.png" width="322" height="410" alt="Ben" loading="lazy" typeof="Image" class="image-style-speaker">
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="speaker-hover">
+   </div>
+  <div class="speaker-body">
+  <div class="speaker-title"><a href="https://deepfest.com/dr-benjamin-goertzel" hreflang="en"><span>Dr. Benjamin</span> Goertzel</a> </div>
+  <div class="speaker-designation">Creating Benevolent Decentralized AGI</div>
+  </div>
+  </div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item cloned active" style="width: 329.75px; margin-right: 10px;"><div class="views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="speaker-item">
+  <a href="https://deepfest.com/alessandra-sala">
+<div class="fontawesome-speaker"><div class="speaker-hover-arrow"></div></div>
+</a>
+  <div class="speaker-img">
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Alessandra_Sala_Photo.png" width="322" height="410" alt="alessandra" loading="lazy" typeof="Image" class="image-style-speaker">
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="speaker-hover">
+   </div>
+  <div class="speaker-body">
+  <div class="speaker-title"><a href="https://deepfest.com/alessandra-sala" hreflang="en">Alessandra sala</a> </div>
+  <div class="speaker-designation">Italian computer scientist</div>
+  </div>
+  </div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item active center" style="width: 329.75px; margin-right: 10px;"><div class="views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="speaker-item">
+  <a href="https://deepfest.com/wonki-min">
+<div class="fontawesome-speaker"><div class="speaker-hover-arrow"></div></div>
+</a>
+  <div class="speaker-img">
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Wonki Min.png" width="322" height="410" alt="" loading="lazy" typeof="Image" class="image-style-speaker">
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="speaker-hover">
+   </div>
+  <div class="speaker-body">
+  <div class="speaker-title"><a href="https://deepfest.com/wonki-min" hreflang="en"><span>Wonki</span> Min</a> </div>
+  <div class="speaker-designation">Ambassador for Science Technology &amp; Innovation</div>
+  </div>
+  </div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item active" style="width: 329.75px; margin-right: 10px;"><div class="views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="speaker-item">
+  <a href="https://deepfest.com/taavi-roivas">
+<div class="fontawesome-speaker"><div class="speaker-hover-arrow"></div></div>
+</a>
+  <div class="speaker-img">
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Taavi_Rõivas_Photo.png" width="322" height="410" alt="" loading="lazy" typeof="Image" class="image-style-speaker">
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="speaker-hover">
+   </div>
+  <div class="speaker-body">
+  <div class="speaker-title"><a href="https://deepfest.com/taavi-roivas" hreflang="en"><span>Taavi</span> Rõivas</a> </div>
+  <div class="speaker-designation">Former Prime Minister of Estonia</div>
+  </div>
+  </div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item active" style="width: 329.75px; margin-right: 10px;"><div class="views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="speaker-item">
+  <a href="https://deepfest.com/saket-kumar">
+<div class="fontawesome-speaker"><div class="speaker-hover-arrow"></div></div>
+</a>
+  <div class="speaker-img">
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Saket_Kumar_Photo.png" width="322" height="410" alt="" loading="lazy" typeof="Image" class="image-style-speaker">
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="speaker-hover">
+   </div>
+  <div class="speaker-body">
+  <div class="speaker-title"><a href="https://deepfest.com/saket-kumar" hreflang="en"><span>Saket</span> Kumar</a> </div>
+  <div class="speaker-designation">Chief Data Scientist</div>
+  </div>
+  </div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item" style="width: 329.75px; margin-right: 10px;"><div class="views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="speaker-item">
+  <a href="https://deepfest.com/ott-velsberg">
+<div class="fontawesome-speaker"><div class="speaker-hover-arrow"></div></div>
+</a>
+  <div class="speaker-img">
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Ott Velsberg.png" width="322" height="410" alt="" loading="lazy" typeof="Image" class="image-style-speaker">
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="speaker-hover">
+   </div>
+  <div class="speaker-body">
+  <div class="speaker-title"><a href="https://deepfest.com/ott-velsberg" hreflang="en"><span>Ott</span> Velsberg</a> </div>
+  <div class="speaker-designation">Government Chief Data Officer of Estonia</div>
+  </div>
+  </div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item" style="width: 329.75px; margin-right: 10px;"><div class="views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="speaker-item">
+  <a href="https://deepfest.com/marc-antoine-dilhac">
+<div class="fontawesome-speaker"><div class="speaker-hover-arrow"></div></div>
+</a>
+  <div class="speaker-img">
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Marc-Antoine_Dilhac_Photo.png" width="322" height="410" alt="" loading="lazy" typeof="Image" class="image-style-speaker">
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="speaker-hover">
+   </div>
+  <div class="speaker-body">
+  <div class="speaker-title"><a href="https://deepfest.com/marc-antoine-dilhac" hreflang="en"><span>Marc</span> Antoine Dilhac</a> </div>
+  <div class="speaker-designation">Professor of Philosophy</div>
+  </div>
+  </div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item" style="width: 329.75px; margin-right: 10px;"><div class="views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="speaker-item">
+  <a href="https://deepfest.com/jack-jean-mccauley">
+<div class="fontawesome-speaker"><div class="speaker-hover-arrow"></div></div>
+</a>
+  <div class="speaker-img">
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Jack_Jean_McCauley_Photo.png" width="322" height="410" alt="" loading="lazy" typeof="Image" class="image-style-speaker">
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="speaker-hover">
+   </div>
+  <div class="speaker-body">
+  <div class="speaker-title"><a href="https://deepfest.com/jack-jean-mccauley" hreflang="en"><span>Jack Jean</span> McCauley</a> </div>
+  <div class="speaker-designation">Co-Founder</div>
+  </div>
+  </div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item" style="width: 329.75px; margin-right: 10px;"><div class="views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="speaker-item">
+  <a href="https://deepfest.com/elizabeth-adams">
+<div class="fontawesome-speaker"><div class="speaker-hover-arrow"></div></div>
+</a>
+  <div class="speaker-img">
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Elizabeth_Adams_Photo.png" width="322" height="410" alt="" loading="lazy" typeof="Image" class="image-style-speaker">
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="speaker-hover">
+   </div>
+  <div class="speaker-body">
+  <div class="speaker-title"><a href="https://deepfest.com/elizabeth-adams" hreflang="en"><span>Elizabeth</span> Adams</a> </div>
+  <div class="speaker-designation">TechnologyLiz</div>
+  </div>
+  </div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item" style="width: 329.75px; margin-right: 10px;"><div class="views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="speaker-item">
+  <a href="https://deepfest.com/cassie-kozyrkov">
+<div class="fontawesome-speaker"><div class="speaker-hover-arrow"></div></div>
+</a>
+  <div class="speaker-img">
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Cassie_Kozyrkov_Photo.png" width="322" height="410" alt="" loading="lazy" typeof="Image" class="image-style-speaker">
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="speaker-hover">
+   </div>
+  <div class="speaker-body">
+  <div class="speaker-title"><a href="https://deepfest.com/cassie-kozyrkov" hreflang="en"><span>Cassie</span> Kozyrkov</a> </div>
+  <div class="speaker-designation">Chief Decision Scientist</div>
+  </div>
+  </div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item" style="width: 329.75px; margin-right: 10px;"><div class="views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="speaker-item">
+  <a href="https://deepfest.com/dr-benjamin-goertzel">
+<div class="fontawesome-speaker"><div class="speaker-hover-arrow"></div></div>
+</a>
+  <div class="speaker-img">
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Ben_Goertzel_Photo_0.png" width="322" height="410" alt="Ben" loading="lazy" typeof="Image" class="image-style-speaker">
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="speaker-hover">
+   </div>
+  <div class="speaker-body">
+  <div class="speaker-title"><a href="https://deepfest.com/dr-benjamin-goertzel" hreflang="en"><span>Dr. Benjamin</span> Goertzel</a> </div>
+  <div class="speaker-designation">Creating Benevolent Decentralized AGI</div>
+  </div>
+  </div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item" style="width: 329.75px; margin-right: 10px;"><div class="views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="speaker-item">
+  <a href="https://deepfest.com/alessandra-sala">
+<div class="fontawesome-speaker"><div class="speaker-hover-arrow"></div></div>
+</a>
+  <div class="speaker-img">
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Alessandra_Sala_Photo.png" width="322" height="410" alt="alessandra" loading="lazy" typeof="Image" class="image-style-speaker">
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="speaker-hover">
+   </div>
+  <div class="speaker-body">
+  <div class="speaker-title"><a href="https://deepfest.com/alessandra-sala" hreflang="en">Alessandra sala</a> </div>
+  <div class="speaker-designation">Italian computer scientist</div>
+  </div>
+  </div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item cloned" style="width: 329.75px; margin-right: 10px;"><div class="views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="speaker-item">
+  <a href="https://deepfest.com/wonki-min">
+<div class="fontawesome-speaker"><div class="speaker-hover-arrow"></div></div>
+</a>
+  <div class="speaker-img">
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Wonki Min.png" width="322" height="410" alt="" loading="lazy" typeof="Image" class="image-style-speaker">
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="speaker-hover">
+   </div>
+  <div class="speaker-body">
+  <div class="speaker-title"><a href="https://deepfest.com/wonki-min" hreflang="en"><span>Wonki</span> Min</a> </div>
+  <div class="speaker-designation">Ambassador for Science Technology &amp; Innovation</div>
+  </div>
+  </div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item cloned" style="width: 329.75px; margin-right: 10px;"><div class="views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="speaker-item">
+  <a href="https://deepfest.com/taavi-roivas">
+<div class="fontawesome-speaker"><div class="speaker-hover-arrow"></div></div>
+</a>
+  <div class="speaker-img">
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Taavi_Rõivas_Photo.png" width="322" height="410" alt="" loading="lazy" typeof="Image" class="image-style-speaker">
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="speaker-hover">
+   </div>
+  <div class="speaker-body">
+  <div class="speaker-title"><a href="https://deepfest.com/taavi-roivas" hreflang="en"><span>Taavi</span> Rõivas</a> </div>
+  <div class="speaker-designation">Former Prime Minister of Estonia</div>
+  </div>
+  </div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item cloned" style="width: 329.75px; margin-right: 10px;"><div class="views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="speaker-item">
+  <a href="https://deepfest.com/saket-kumar">
+<div class="fontawesome-speaker"><div class="speaker-hover-arrow"></div></div>
+</a>
+  <div class="speaker-img">
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Saket_Kumar_Photo.png" width="322" height="410" alt="" loading="lazy" typeof="Image" class="image-style-speaker">
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="speaker-hover">
+   </div>
+  <div class="speaker-body">
+  <div class="speaker-title"><a href="https://deepfest.com/saket-kumar" hreflang="en"><span>Saket</span> Kumar</a> </div>
+  <div class="speaker-designation">Chief Data Scientist</div>
+  </div>
+  </div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item cloned" style="width: 329.75px; margin-right: 10px;"><div class="views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="speaker-item">
+  <a href="https://deepfest.com/ott-velsberg">
+<div class="fontawesome-speaker"><div class="speaker-hover-arrow"></div></div>
+</a>
+  <div class="speaker-img">
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Ott Velsberg.png" width="322" height="410" alt="" loading="lazy" typeof="Image" class="image-style-speaker">
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="speaker-hover">
+   </div>
+  <div class="speaker-body">
+  <div class="speaker-title"><a href="https://deepfest.com/ott-velsberg" hreflang="en"><span>Ott</span> Velsberg</a> </div>
+  <div class="speaker-designation">Government Chief Data Officer of Estonia</div>
+  </div>
+  </div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item cloned" style="width: 329.75px; margin-right: 10px;"><div class="views-row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="speaker-item">
+  <a href="https://deepfest.com/marc-antoine-dilhac">
+<div class="fontawesome-speaker"><div class="speaker-hover-arrow"></div></div>
+</a>
+  <div class="speaker-img">
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Marc-Antoine_Dilhac_Photo.png" width="322" height="410" alt="" loading="lazy" typeof="Image" class="image-style-speaker">
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="speaker-hover">
+   </div>
+  <div class="speaker-body">
+  <div class="speaker-title"><a href="https://deepfest.com/marc-antoine-dilhac" hreflang="en"><span>Marc</span> Antoine Dilhac</a> </div>
+  <div class="speaker-designation">Professor of Philosophy</div>
+  </div>
+  </div>
+</div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
+    <div class="owl-arrow d-flex speaker-owl-arrow">
+    <div class="owl-arrow-prev"></div>
+    <div class="owl-arrow-next"></div>
+    </div>
+  
+            <div class="view-footer">
+      <div class="speaker-footer-button text-center cta-div"><a href="https://deepfest.com/speakers" class="cta">See more</a></div>
+    </div>
+    </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/views/views-view--speaker_frontpage.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/container.html.twig' -->
+
+
+    </div>
+  </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/block/block--views-block--speaker-frontpage-block-1.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--deepfestwillbecollocatedwithleap.html.twig
+   * block--block-content--541013ce-bc91-4d9a-bdb8-ddcffbca95a4.html.twig
+   * block--block-content.html.twig
+   x block--bundle--deepfest-leap.html.twig
+   * block--block-content.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/block/block--bundle--deepfest-leap.html.twig' -->
+
+
+<style>
+ 
+</style>
+<script type="text/javascript">
+      var large = "";
+      var medium = "";
+      var small = "DeepFest will be collocated with LEAP";
+</script>
+
+<div id="block-deepfestwillbecollocatedwithleap" class="block block-block-content block-block-content541013ce-bc91-4d9a-bdb8-ddcffbca95a4 deepfest-leap">
+  
+  
+  <div class="leap-container row df-container">
+  <div class="col-12 col-md-5 ">
+    <div class="d-none d-md-block leap-img">
+      <img class="leap-image" src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/leap dt.png">
+    </div>
+  </div>
+  <div class="col-md-7 col-12 p-0 pl-3 pl-md-0">
+    <h1>DeepFest will be collocated with LEAP</h1>
+    <div class="leap-body">  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--body--deepfest-leap.html.twig
+   * field--block-content--body.html.twig
+   * field--block-content--deepfest-leap.html.twig
+   * field--body.html.twig
+   x field--text-with-summary.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text-with-summary.html.twig' -->
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>History’s largest-ever debut tech event. Back for the second edition in Riyadh on 7-9 February, LEAP is where the world’s tech elite come to network, learn and discover what’s next for tech and humanity.</p>
+</div>
+      
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text-with-summary.html.twig' -->
+
+</div>
+      <div class="d-md-none d-block leap-img">
+        <img class="leap-image" src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/leap dt.png"> 
+      </div>
+      <div class="leap-info">  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--field-visitors-info--deepfest-leap.html.twig
+   * field--block-content--field-visitors-info.html.twig
+   * field--block-content--deepfest-leap.html.twig
+   * field--field-visitors-info.html.twig
+   * field--entity-reference-revisions.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/field/field.html.twig' -->
+
+      <div class="field field--name-field-visitors-info field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   x paragraph--visitors-info--default.html.twig
+   * paragraph--visitors-info.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--visitors-info--default.html.twig' -->
+  <div class="paragraph paragraph--type--visitors-info paragraph--view-mode--default">
+        <div class="visitors-info-content">
+      <div class="visitors-info-number">100,000+</div>
+      <div class="visitors-info-title">Visitors</div>
+    </div>
+      </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--visitors-info--default.html.twig' -->
+
+</div>
+              <div class="field__item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   x paragraph--visitors-info--default.html.twig
+   * paragraph--visitors-info.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--visitors-info--default.html.twig' -->
+  <div class="paragraph paragraph--type--visitors-info paragraph--view-mode--default">
+        <div class="visitors-info-content">
+      <div class="visitors-info-number">500+</div>
+      <div class="visitors-info-title">Tech expert speakers</div>
+    </div>
+      </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--visitors-info--default.html.twig' -->
+
+</div>
+              <div class="field__item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   x paragraph--visitors-info--default.html.twig
+   * paragraph--visitors-info.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--visitors-info--default.html.twig' -->
+  <div class="paragraph paragraph--type--visitors-info paragraph--view-mode--default">
+        <div class="visitors-info-content">
+      <div class="visitors-info-number">700+</div>
+      <div class="visitors-info-title">Cross-industry exhibitors</div>
+    </div>
+      </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--visitors-info--default.html.twig' -->
+
+</div>
+              <div class="field__item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   x paragraph--visitors-info--default.html.twig
+   * paragraph--visitors-info.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--visitors-info--default.html.twig' -->
+  <div class="paragraph paragraph--type--visitors-info paragraph--view-mode--default">
+        <div class="visitors-info-content">
+      <div class="visitors-info-number">450+</div>
+      <div class="visitors-info-title">Startups</div>
+    </div>
+      </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--visitors-info--default.html.twig' -->
+
+</div>
+          </div>
+  
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/field/field.html.twig' -->
+
+</div>
+      <div class="leap-button"><a href="https://www.onegiantleap.com/en/home.html">go to leap</a></div>
+    </div>
+
+  </div>
+</div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/block/block--bundle--deepfest-leap.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--ourareasofinterest.html.twig
+   * block--block-content--69b6dcd9-1d44-4f0f-adf5-8292165ea244.html.twig
+   * block--block-content.html.twig
+   x block--bundle--our-areas-of-interests.html.twig
+   * block--block-content.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/block/block--bundle--our-areas-of-interests.html.twig' -->
+<div id="block-ourareasofinterest" class="block block-block-content block-block-content69b6dcd9-1d44-4f0f-adf5-8292165ea244">
+  
+    
+      <div class="content our-areas-of-interest">
+      <div class="oaoi-main-wrapper">
+        <div class="heading-section">  
+          <div class="main-heading">
+            Our Areas <br>Of Interest
+          </div>
+          <div class="main-body">
+            <p>DeepFest will unveil government AI initiatives and latest innovations across many sectors through incorporating a thought-leadership conference and a series of sector dedicated tracks, trainings, live-demos, innovation sessions, and an exhibition that features the world’s top tech companies from across the world.</p>
+
+          </div>
+        </div>
+        <div class="card-section">
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--field-area-of-interest-cards--our-areas-of-interests.html.twig
+   x field--block-content--field-area-of-interest-cards.html.twig
+   * field--block-content--our-areas-of-interests.html.twig
+   * field--field-area-of-interest-cards.html.twig
+   * field--entity-reference-revisions.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/field/field--block-content--field-area-of-interest-cards.html.twig' -->
+
+      <div class="field field--name-field-area-of-interest-cards field--type-entity-reference-revisions field--label-hidden field__items all-cards">
+              <div class="field__item individual-card">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--areas-of-interests--default.html.twig
+   x paragraph--areas-of-interests.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--areas-of-interests.html.twig' -->
+  <div class="paragraph paragraph--type--areas-of-interests paragraph--view-mode--default">
+          <div class="aoi-card">
+          <div class="card-text">
+          <p>Artificial<br>
+General Intelligence</p>
+
+        </div>
+        <div class="card-image">
+          <img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Group 995 Artificial General intelligence.png" class="img">
+        </div>
+      
+      </div>  
+      </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--areas-of-interests.html.twig' -->
+
+</div>
+              <div class="field__item individual-card">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--areas-of-interests--default.html.twig
+   x paragraph--areas-of-interests.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--areas-of-interests.html.twig' -->
+  <div class="paragraph paragraph--type--areas-of-interests paragraph--view-mode--default">
+          <div class="aoi-card">
+          <div class="card-text">
+          <p>AI<br>
+Ethics</p>
+
+        </div>
+        <div class="card-image">
+          <img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Group 991 AI Ethics.png" class="img">
+        </div>
+      
+      </div>  
+      </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--areas-of-interests.html.twig' -->
+
+</div>
+              <div class="field__item individual-card">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--areas-of-interests--default.html.twig
+   x paragraph--areas-of-interests.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--areas-of-interests.html.twig' -->
+  <div class="paragraph paragraph--type--areas-of-interests paragraph--view-mode--default">
+          <div class="aoi-card">
+          <div class="card-text">
+          <p>Large&nbsp;<br>
+Language Models</p>
+
+        </div>
+        <div class="card-image">
+          <img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Group 1001 Large Language Models.png" class="img">
+        </div>
+      
+      </div>  
+      </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--areas-of-interests.html.twig' -->
+
+</div>
+              <div class="field__item individual-card">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--areas-of-interests--default.html.twig
+   x paragraph--areas-of-interests.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--areas-of-interests.html.twig' -->
+  <div class="paragraph paragraph--type--areas-of-interests paragraph--view-mode--default">
+          <div class="aoi-card">
+          <div class="card-text">
+          <p>Augmented<br>
+Reality</p>
+
+        </div>
+        <div class="card-image">
+          <img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Group 996 Augmented Reality.png" class="img">
+        </div>
+      
+      </div>  
+      </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--areas-of-interests.html.twig' -->
+
+</div>
+              <div class="field__item individual-card">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--areas-of-interests--default.html.twig
+   x paragraph--areas-of-interests.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--areas-of-interests.html.twig' -->
+  <div class="paragraph paragraph--type--areas-of-interests paragraph--view-mode--default">
+          <div class="aoi-card">
+          <div class="card-text">
+          <p>AI<br>
+Regulation</p>
+
+        </div>
+        <div class="card-image">
+          <img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Group 990AI Regulation.png" class="img">
+        </div>
+      
+      </div>  
+      </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--areas-of-interests.html.twig' -->
+
+</div>
+              <div class="field__item individual-card">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--areas-of-interests--default.html.twig
+   x paragraph--areas-of-interests.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--areas-of-interests.html.twig' -->
+  <div class="paragraph paragraph--type--areas-of-interests paragraph--view-mode--default">
+          <div class="aoi-card">
+          <div class="card-text">
+          <p>AI<br>
+Robotics</p>
+
+        </div>
+        <div class="card-image">
+          <img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Group 987 AI Robotics.png" class="img">
+        </div>
+      
+      </div>  
+      </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph--areas-of-interests.html.twig' -->
+
+</div>
+          </div>
+  
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/field/field--block-content--field-area-of-interest-cards.html.twig' -->
+
+
+        </div>
+      </div>
+      <div class="orbs">
+          <img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Orbs full.png" class="orbs-img">
+        </div>
+    </div>
+  </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/block/block--bundle--our-areas-of-interests.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   x block--views-block--our-partners-carousel-block-1.html.twig
+   x block--views-block--our-partners-carousel-block-1.html.twig
+   * block--views-block.html.twig
+   * block--views.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/block/block--views-block--our-partners-carousel-block-1.html.twig' -->
+<div class="views-element-container block block-views block-views-blockour-partners-carousel-block-1 exhibitor-carousel container-fluid" id="block-views-block-our-partners-carousel-block-1">
+  
+    
+      <div class="content">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/container.html.twig' -->
+<div>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view__our_partners_carousel' -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view--our-partners-carousel.html.twig
+   x views-view--our-partners-carousel.html.twig
+   * views-view.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/views/views-view--our-partners-carousel.html.twig' -->
+
+<div class="view view-our-partners-carousel view-id-our_partners_carousel view-display-id-block_1 js-view-dom-id-a3edaef8fd6fed406f9c30de960ded4b62353662ae995185efb7f2eaac567ab0">
+  
+    
+      <div class="view-header">
+      <div class="our-partners-title text-center text-uppercase"> <h1>Our Partners</h1></div>
+    </div>
+      
+      <div class="view-content exhibitors owl-carousel owl-theme owl-loaded owl-drag" id="exhibitors-carousal">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_unformatted' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/views/views-view-unformatted.html.twig' -->
+    
+    
+    
+    
+    
+    
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/views/views-view-unformatted.html.twig' -->
+
+
+    <div class="owl-stage-outer"><div class="owl-stage" style="transition: all 0s ease 0s; width: 4129px; padding-left: 50px; padding-right: 50px; transform: translate3d(-755px, 0px, 0px);"><div class="owl-item cloned" style="width: 241.8px; margin-right: 10px;"><div class="item exhibitor-item text-center">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<a href="https://deepfest.com/our-partners-popup/3" class="webform-dialog webform-dialog-normal" data-dialog-options="{&quot;classes&quot;: {&quot;ui-dialog&quot;:&quot;form-dialog ui-corner-all partners-dialog&quot;}}">
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/ACS.svg" alt="acs" width="161" height="161">
+</a>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item cloned" style="width: 241.8px; margin-right: 10px;"><div class="item exhibitor-item text-center">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<a href="https://deepfest.com/our-partners-popup/4" class="webform-dialog webform-dialog-normal" data-dialog-options="{&quot;classes&quot;: {&quot;ui-dialog&quot;:&quot;form-dialog ui-corner-all partners-dialog&quot;}}">
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Digital future.svg" alt="df" width="161" height="161">
+</a>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item cloned" style="width: 241.8px; margin-right: 10px;"><div class="item exhibitor-item text-center">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<a href="https://deepfest.com/our-partners-popup/5" class="webform-dialog webform-dialog-normal" data-dialog-options="{&quot;classes&quot;: {&quot;ui-dialog&quot;:&quot;form-dialog ui-corner-all partners-dialog&quot;}}">
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Netwitness-1.svg" alt="logo" width="260" height="60">
+</a>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item cloned active" style="width: 241.8px; margin-right: 10px;"><div class="item exhibitor-item text-center">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<a href="https://deepfest.com/our-partners-popup/6" class="webform-dialog webform-dialog-normal" data-dialog-options="{&quot;classes&quot;: {&quot;ui-dialog&quot;:&quot;form-dialog ui-corner-all partners-dialog&quot;}}">
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/EEC.svg" alt="eec" width="161" height="161">
+</a>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item cloned active" style="width: 241.8px; margin-right: 10px;"><div class="item exhibitor-item text-center">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<a href="https://deepfest.com/our-partners-popup/7" class="webform-dialog webform-dialog-normal" data-dialog-options="{&quot;classes&quot;: {&quot;ui-dialog&quot;:&quot;form-dialog ui-corner-all partners-dialog&quot;}}">
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/SDB.svg" alt="SDB" width="161" height="161">
+</a>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item active center" style="width: 241.8px; margin-right: 10px;"><div class="item exhibitor-item text-center">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<a href="https://deepfest.com/our-partners-popup/1" class="webform-dialog webform-dialog-normal" data-dialog-options="{&quot;classes&quot;: {&quot;ui-dialog&quot;:&quot;form-dialog ui-corner-all partners-dialog&quot;}}">
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Qoyod.svg" alt="Qoyod" width="161" height="161">
+</a>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item active" style="width: 241.8px; margin-right: 10px;"><div class="item exhibitor-item text-center">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<a href="https://deepfest.com/our-partners-popup/3" class="webform-dialog webform-dialog-normal" data-dialog-options="{&quot;classes&quot;: {&quot;ui-dialog&quot;:&quot;form-dialog ui-corner-all partners-dialog&quot;}}">
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/ACS.svg" alt="acs" width="161" height="161">
+</a>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item active" style="width: 241.8px; margin-right: 10px;"><div class="item exhibitor-item text-center">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<a href="https://deepfest.com/our-partners-popup/4" class="webform-dialog webform-dialog-normal" data-dialog-options="{&quot;classes&quot;: {&quot;ui-dialog&quot;:&quot;form-dialog ui-corner-all partners-dialog&quot;}}">
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Digital future.svg" alt="df" width="161" height="161">
+</a>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item" style="width: 241.8px; margin-right: 10px;"><div class="item exhibitor-item text-center">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<a href="https://deepfest.com/our-partners-popup/5" class="webform-dialog webform-dialog-normal" data-dialog-options="{&quot;classes&quot;: {&quot;ui-dialog&quot;:&quot;form-dialog ui-corner-all partners-dialog&quot;}}">
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Netwitness-1.svg" alt="logo" width="260" height="60">
+</a>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item" style="width: 241.8px; margin-right: 10px;"><div class="item exhibitor-item text-center">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<a href="https://deepfest.com/our-partners-popup/6" class="webform-dialog webform-dialog-normal" data-dialog-options="{&quot;classes&quot;: {&quot;ui-dialog&quot;:&quot;form-dialog ui-corner-all partners-dialog&quot;}}">
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/EEC.svg" alt="eec" width="161" height="161">
+</a>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item" style="width: 241.8px; margin-right: 10px;"><div class="item exhibitor-item text-center">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<a href="https://deepfest.com/our-partners-popup/7" class="webform-dialog webform-dialog-normal" data-dialog-options="{&quot;classes&quot;: {&quot;ui-dialog&quot;:&quot;form-dialog ui-corner-all partners-dialog&quot;}}">
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/SDB.svg" alt="SDB" width="161" height="161">
+</a>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item cloned" style="width: 241.8px; margin-right: 10px;"><div class="item exhibitor-item text-center">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<a href="https://deepfest.com/our-partners-popup/1" class="webform-dialog webform-dialog-normal" data-dialog-options="{&quot;classes&quot;: {&quot;ui-dialog&quot;:&quot;form-dialog ui-corner-all partners-dialog&quot;}}">
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Qoyod.svg" alt="Qoyod" width="161" height="161">
+</a>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item cloned" style="width: 241.8px; margin-right: 10px;"><div class="item exhibitor-item text-center">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<a href="https://deepfest.com/our-partners-popup/3" class="webform-dialog webform-dialog-normal" data-dialog-options="{&quot;classes&quot;: {&quot;ui-dialog&quot;:&quot;form-dialog ui-corner-all partners-dialog&quot;}}">
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/ACS.svg" alt="acs" width="161" height="161">
+</a>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item cloned" style="width: 241.8px; margin-right: 10px;"><div class="item exhibitor-item text-center">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<a href="https://deepfest.com/our-partners-popup/4" class="webform-dialog webform-dialog-normal" data-dialog-options="{&quot;classes&quot;: {&quot;ui-dialog&quot;:&quot;form-dialog ui-corner-all partners-dialog&quot;}}">
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Digital future.svg" alt="df" width="161" height="161">
+</a>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item cloned" style="width: 241.8px; margin-right: 10px;"><div class="item exhibitor-item text-center">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<a href="https://deepfest.com/our-partners-popup/5" class="webform-dialog webform-dialog-normal" data-dialog-options="{&quot;classes&quot;: {&quot;ui-dialog&quot;:&quot;form-dialog ui-corner-all partners-dialog&quot;}}">
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Netwitness-1.svg" alt="logo" width="260" height="60">
+</a>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div><div class="owl-item cloned" style="width: 241.8px; margin-right: 10px;"><div class="item exhibitor-item text-center">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+<div class="views-field views-field-nothing"><span class="field-content">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<a href="https://deepfest.com/our-partners-popup/6" class="webform-dialog webform-dialog-normal" data-dialog-options="{&quot;classes&quot;: {&quot;ui-dialog&quot;:&quot;form-dialog ui-corner-all partners-dialog&quot;}}">
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/EEC.svg" alt="eec" width="161" height="161">
+</a>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</span></div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+  </div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
+    <div class="owl-arrow d-flex partners-owl-arrow">
+    <div class="owl-arrow-prev"></div>
+    <div class="owl-arrow-next"></div>
+    </div>
+  
+          </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/views/views-view--our-partners-carousel.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/container.html.twig' -->
+
+
+    </div>
+  </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/block/block--views-block--our-partners-carousel-block-1.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/container.html.twig' -->
+<div class="views-element-container">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view' -->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/views/views-view.html.twig' -->
+<div class="view view-frontpage view-id-frontpage view-display-id-page_1 js-view-dom-id-df316407bfab20526ce749baf8ee1c098106cf86bb76ca6ad2bea6fa55ec0d79">
+  
+    
+      
+  
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'pager' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/navigation/pager.html.twig' -->
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/navigation/pager.html.twig' -->
+
+
+          </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/views/views-view.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/form/container.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--subscribeblock.html.twig
+   * block--block-content--ce4f3c17-2058-411d-8940-b91f9638792b.html.twig
+   * block--block-content.html.twig
+   x block--bundle--subscribe.html.twig
+   * block--block-content.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/block/block--bundle--subscribe.html.twig' -->
+
+<style>
+    .subscribe-bg {
+      background-image: url(https://files.deepfest.com/files/2022-09/footer%20bg%20mobile-1.jpg?VersionId=_J8ygYfnzrq1Ynx0k4_uZggDsMJJatb3);
+      height: 704px;
+    }
+    @media screen and (min-width: 576px){
+        .subscribe-bg {
+            background-image: url(https://files.deepfest.com/files/2022-09/footer%20bg%20tab-1.jpg?VersionId=xH58yrODq4.PTOTbmqcz6aY.yrkWyNam);
+            height: 427px;
+        }
+    }
+    @media screen and (min-width: 1280px){
+        .subscribe-bg {
+            background-image: url(https://files.deepfest.com/files/2022-09/footer%20img-1.png?VersionId=JKmesV.2EzqnQa7tzQNN3Pmn9Uvf8HPa);
+            height: 546px;
+        }
+    }
+</style>
+<script type="text/javascript">
+      var large = "";
+      var medium = "";
+      var small = "SUBSCRIBE TO LEARN MORE";
+</script>
+
+<div id="block-subscribeblock" class="block block-block-content block-block-contentce4f3c17-2058-411d-8940-b91f9638792b subscribe-bg">
+  
+  
+  <div class="subscribe-bg">
+   
+    <div class="subscribe-content">
+    <img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Ellipse 19 (1).png" class="parallax-img-sub0 Rellax2 position-absolute" style="transform: translate3d(0px, 26px, 0px);"> 
+    <img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/df-asset00@4x 3 (1) (1).png" class="parallax-img-sub1 Rellax2 position-absolute" style="transform: translate3d(0px, 13px, 0px);"> 
+    <img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/df-asset00@4x 2 (5) (1).png" class="parallax-img-sub2 Rellax2 position-absolute" style="transform: translate3d(0px, 0px, 0px);"> 
+
+      <div class="subscribe-row1 d-md-flex d-block">
+          <div class="subscribe-title"><h1>SUBSCRIBE TO LEARN MORE</h1></div>
+        <div class="subscribe-body">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--body--subscribe.html.twig
+   * field--block-content--body.html.twig
+   * field--block-content--subscribe.html.twig
+   * field--body.html.twig
+   x field--text-with-summary.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text-with-summary.html.twig' -->
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Subscribe to LEAP’s weekly tech newsletter to receive DeepFest and AI updates straight into your inbox.</p>
+</div>
+      
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text-with-summary.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--field-link-button-1--subscribe.html.twig
+   * field--block-content--field-link-button-1.html.twig
+   * field--block-content--subscribe.html.twig
+   * field--field-link-button-1.html.twig
+   * field--link.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/field/field.html.twig' -->
+
+            <div class="field field--name-field-link-button-1 field--type-link field--label-hidden field__item"><a href="https://deepfest.com/form/subscribe">Subscribe</a></div>
+      
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/field/field.html.twig' -->
+
+</div>
+      </div>
+
+      <div class="subscribe-row2 d-md-flex d-block justify-content-between">
+          <div class="subscribe-logo">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+<img src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/Vector-1.png" width="207" height="66" alt="logo" loading="lazy" typeof="foaf:Image">
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig' -->
+
+</div>
+        <div class="subscribe-social">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'linkicon' -->
+<!-- BEGIN OUTPUT from 'modules/contrib/linkicon/templates/linkicon.html.twig' -->
+
+<div class="item-list item-list--linkicon">
+  <ul id="linkicon-block-content-subscribe-field-social-icons-3" class="linkicon"><li>
+        <a href="https://www.instagram.com/deepfestai/" class="linkicon__item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'linkicon_item' -->
+<!-- BEGIN OUTPUT from 'modules/contrib/linkicon/templates/linkicon-item.html.twig' -->
+      <span aria-hidden="true" class="linkicon__icon icon fa fa-instagram"></span>
+    <span class="linkicon__text">Instagram</span>
+  
+<!-- END OUTPUT from 'modules/contrib/linkicon/templates/linkicon-item.html.twig' -->
+
+</a>
+      </li><li>
+        <a href="https://twitter.com/deepfestai" class="linkicon__item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'linkicon_item' -->
+<!-- BEGIN OUTPUT from 'modules/contrib/linkicon/templates/linkicon-item.html.twig' -->
+      <span aria-hidden="true" class="linkicon__icon icon fa fa-twitter"></span>
+    <span class="linkicon__text">Twitter</span>
+  
+<!-- END OUTPUT from 'modules/contrib/linkicon/templates/linkicon-item.html.twig' -->
+
+</a>
+      </li><li>
+        <a href="https://www.facebook.com/deepfestai" class="linkicon__item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'linkicon_item' -->
+<!-- BEGIN OUTPUT from 'modules/contrib/linkicon/templates/linkicon-item.html.twig' -->
+      <span aria-hidden="true" class="linkicon__icon icon fa fa-facebook"></span>
+    <span class="linkicon__text">Facebook</span>
+  
+<!-- END OUTPUT from 'modules/contrib/linkicon/templates/linkicon-item.html.twig' -->
+
+</a>
+      </li><li>
+        <a href="https://www.linkedin.com/company/deepfestai/" class="linkicon__item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'linkicon_item' -->
+<!-- BEGIN OUTPUT from 'modules/contrib/linkicon/templates/linkicon-item.html.twig' -->
+      <span aria-hidden="true" class="linkicon__icon icon fa fa-linkedin"></span>
+    <span class="linkicon__text">Linkedin</span>
+  
+<!-- END OUTPUT from 'modules/contrib/linkicon/templates/linkicon-item.html.twig' -->
+
+</a>
+      </li></ul>
+</div>
+
+<!-- END OUTPUT from 'modules/contrib/linkicon/templates/linkicon.html.twig' -->
+
+</div>
+      </div>
+      </div>
+  </div>
+
+  </div>
+
+  <script>
+    // Accepts any class name
+  </script>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/block/block--bundle--subscribe.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--contactfooter.html.twig
+   * block--block-content--b3b6f616-3046-4de2-9685-21972e67a274.html.twig
+   * block--block-content.html.twig
+   x block--bundle--contact-footer.html.twig
+   * block--block-content.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/block/block--bundle--contact-footer.html.twig' -->
+<div id="block-contactfooter" class="block block-block-content block-block-contentb3b6f616-3046-4de2-9685-21972e67a274 block-footer-contact df-container">
+  
+      <h2>Contact</h2>
+    
+      <div class="content">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--field-contact-details--contact-footer.html.twig
+   * field--block-content--field-contact-details.html.twig
+   * field--block-content--contact-footer.html.twig
+   * field--field-contact-details.html.twig
+   * field--entity-reference-revisions.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/field/field.html.twig' -->
+
+      <div class="field field--name-field-contact-details field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--contact-footer--default.html.twig
+   * paragraph--contact-footer.html.twig
+   * paragraph--default.html.twig
+   x paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph.html.twig' -->
+  <div class="paragraph paragraph--type--contact-footer paragraph--view-mode--default">
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-title--contact-footer.html.twig
+   * field--paragraph--field-title.html.twig
+   * field--paragraph--contact-footer.html.twig
+   * field--field-title.html.twig
+   x field--text.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text.html.twig' -->
+
+            <div class="clearfix text-formatted field field--name-field-title field--type-text field--label-hidden field__item">Sponsoring, speaking, or exhibiting</div>
+      
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-title1--contact-footer.html.twig
+   * field--paragraph--field-title1.html.twig
+   * field--paragraph--contact-footer.html.twig
+   * field--field-title1.html.twig
+   x field--text.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text.html.twig' -->
+
+            <div class="clearfix text-formatted field field--name-field-title1 field--type-text field--label-hidden field__item">Clement Edwards</div>
+      
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-email--contact-footer.html.twig
+   * field--paragraph--field-email.html.twig
+   * field--paragraph--contact-footer.html.twig
+   * field--field-email.html.twig
+   * field--email.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/field/field.html.twig' -->
+
+            <div class="field field--name-field-email field--type-email field--label-hidden field__item">sales@deepfest.com</div>
+      
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/field/field.html.twig' -->
+
+
+      </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph.html.twig' -->
+
+</div>
+              <div class="field__item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--contact-footer--default.html.twig
+   * paragraph--contact-footer.html.twig
+   * paragraph--default.html.twig
+   x paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph.html.twig' -->
+  <div class="paragraph paragraph--type--contact-footer paragraph--view-mode--default">
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-title--contact-footer.html.twig
+   * field--paragraph--field-title.html.twig
+   * field--paragraph--contact-footer.html.twig
+   * field--field-title.html.twig
+   x field--text.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text.html.twig' -->
+
+            <div class="clearfix text-formatted field field--name-field-title field--type-text field--label-hidden field__item">General Inquiries</div>
+      
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-title1--contact-footer.html.twig
+   * field--paragraph--field-title1.html.twig
+   * field--paragraph--contact-footer.html.twig
+   * field--field-title1.html.twig
+   x field--text.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text.html.twig' -->
+
+            <div class="clearfix text-formatted field field--name-field-title1 field--type-text field--label-hidden field__item">Deepfest Team</div>
+      
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-email--contact-footer.html.twig
+   * field--paragraph--field-email.html.twig
+   * field--paragraph--contact-footer.html.twig
+   * field--field-email.html.twig
+   * field--email.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/field/field.html.twig' -->
+
+            <div class="field field--name-field-email field--type-email field--label-hidden field__item">hello@deepfest.com</div>
+      
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/field/field.html.twig' -->
+
+
+      </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph.html.twig' -->
+
+</div>
+              <div class="field__item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--contact-footer--default.html.twig
+   * paragraph--contact-footer.html.twig
+   * paragraph--default.html.twig
+   x paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph.html.twig' -->
+  <div class="paragraph paragraph--type--contact-footer paragraph--view-mode--default">
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-title--contact-footer.html.twig
+   * field--paragraph--field-title.html.twig
+   * field--paragraph--contact-footer.html.twig
+   * field--field-title.html.twig
+   x field--text.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text.html.twig' -->
+
+            <div class="clearfix text-formatted field field--name-field-title field--type-text field--label-hidden field__item">Media</div>
+      
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-title1--contact-footer.html.twig
+   * field--paragraph--field-title1.html.twig
+   * field--paragraph--contact-footer.html.twig
+   * field--field-title1.html.twig
+   x field--text.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text.html.twig' -->
+
+            <div class="clearfix text-formatted field field--name-field-title1 field--type-text field--label-hidden field__item">Richard McKeon</div>
+      
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-email--contact-footer.html.twig
+   * field--paragraph--field-email.html.twig
+   * field--paragraph--contact-footer.html.twig
+   * field--field-email.html.twig
+   * field--email.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/field/field.html.twig' -->
+
+            <div class="field field--name-field-email field--type-email field--label-hidden field__item">marketing@deepfest.com</div>
+      
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/field/field.html.twig' -->
+
+
+      </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph.html.twig' -->
+
+</div>
+              <div class="field__item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--contact-footer--default.html.twig
+   * paragraph--contact-footer.html.twig
+   * paragraph--default.html.twig
+   x paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph.html.twig' -->
+  <div class="paragraph paragraph--type--contact-footer paragraph--view-mode--default">
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-title--contact-footer.html.twig
+   * field--paragraph--field-title.html.twig
+   * field--paragraph--contact-footer.html.twig
+   * field--field-title.html.twig
+   x field--text.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text.html.twig' -->
+
+            <div class="clearfix text-formatted field field--name-field-title field--type-text field--label-hidden field__item">To launch an event like DeepFest, contact:</div>
+      
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-title1--contact-footer.html.twig
+   * field--paragraph--field-title1.html.twig
+   * field--paragraph--contact-footer.html.twig
+   * field--field-title1.html.twig
+   x field--text.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text.html.twig' -->
+
+            <div class="clearfix text-formatted field field--name-field-title1 field--type-text field--label-hidden field__item">Annabelle Mander, Group Director</div>
+      
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-email--contact-footer.html.twig
+   * field--paragraph--field-email.html.twig
+   * field--paragraph--contact-footer.html.twig
+   * field--field-email.html.twig
+   * field--email.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/field/field.html.twig' -->
+
+            <div class="field field--name-field-email field--type-email field--label-hidden field__item">Annabelle.mander@informa.com</div>
+      
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/field/field.html.twig' -->
+
+
+      </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/paragraphs/paragraph.html.twig' -->
+
+</div>
+          </div>
+  
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/field/field.html.twig' -->
+
+
+    </div>
+  </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/block/block--bundle--contact-footer.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/layout/region--nowrap.html.twig' -->
+
+
+                </section>
+              </main>
+                                  </div>
+        </div>
+          </div>
+
+    
+        <footer class="site-footer p-0">
+              <div class="container-fluid p-0">
+                      <div class="site-footer__top clearfix">
+              <div class="footer-first">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--footer-first.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/layout/region.html.twig' -->
+  <section class="row region region-footer-first">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--footermenu.html.twig
+   * block--system-menu-block--footer-menu.html.twig
+   x block--system-menu-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/block/block--system-menu-block.html.twig' -->
+<nav role="navigation" aria-labelledby="block-footermenu-menu" id="block-footermenu" class="block block-menu navigation menu--footer-menu">
+            
+  <h2 class="visually-hidden" id="block-footermenu-menu">Footer menu</h2>
+  
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__footer_menu' -->
+<!-- FILE NAME SUGGESTIONS:
+   * menu--footer-menu.html.twig
+   x menu.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/navigation/menu.html.twig' -->
+
+              <ul class="clearfix nav">
+                    <li class="nav-item">
+                <a href="https://deepfest.com/agenda" class="nav-link nav-link--agenda" modal="0" data-drupal-link-system-path="agenda">Agenda</a>
+              </li>
+                <li class="nav-item">
+                <a href="https://deepfest.com/speakers" class="nav-link nav-link--speakers" modal="0" data-drupal-link-system-path="speakers">Speakers</a>
+              </li>
+                <li class="nav-item menu-item--collapsed">
+                <a href="https://deepfest.com/partners-with-us" class="nav-link nav-link--partners-with-us" modal="0" data-drupal-link-system-path="node/7">Partner with us</a>
+              </li>
+                <li class="nav-item">
+                <a href="https://deepfest.com/discover-leap" class="nav-link nav-link--discover-leap" modal="0" data-drupal-link-system-path="node/27">Discover Leap</a>
+              </li>
+        </ul>
+  
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/navigation/menu.html.twig' -->
+
+
+  </nav>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/block/block--system-menu-block.html.twig' -->
+
+
+  </section>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/layout/region.html.twig' -->
+
+</div>
+              <div class="footer-second">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--footer-second.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/layout/region.html.twig' -->
+  <section class="row region region-footer-second">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--footer-copyrightqwe.html.twig
+   * block--block-content--ac21be32-9eb0-4703-bd8c-19249d95ad5b.html.twig
+   * block--block-content.html.twig
+   * block--bundle--basic-block.html.twig
+   * block--block-content.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/deepfest_theme/templates/block/block.html.twig' -->
+<div id="block-footer-copyrightqwe" class="block block-block-content block-block-contentac21be32-9eb0-4703-bd8c-19249d95ad5b">
+  
+    
+      <div class="content">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--body--basic-block.html.twig
+   * field--block-content--body.html.twig
+   * field--block-content--basic-block.html.twig
+   * field--body.html.twig
+   x field--text-with-summary.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text-with-summary.html.twig' -->
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="footer-second-block">
+<div class="footer-copyright">
+<p>Copyright © 2022 <b>Informa PLC</b>. Website designed and developed by <a href="https://www.zyrous.com/"><b>Zyrous</b></a></p>
+</div>
+</div>
+</div>
+      
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/field/field--text-with-summary.html.twig' -->
+
+
+    </div>
+  </div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/block/block.html.twig' -->
+
+
+  </section>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap_barrio/templates/layout/region.html.twig' -->
+
+</div>
+              
+              
+            </div>
+                            </div>
+          </footer>
+  </div>
+</div>
+
+<!-- END OUTPUT from 'themes/custom/deepfest_theme/templates/layout/page.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/off-canvas-page-wrapper.html.twig' -->
+
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"bootstrap_barrio\/global-styling,bootstrap_barrio\/messages_light,core\/drupal.autocomplete,deepfest_theme\/custom-carousel-block,deepfest_theme\/global-styling,deepfest_theme\/hero-vid,deepfest_theme\/myscript,deepfest_theme\/owl,fontawesome\/fontawesome.webfonts,fontawesome\/fontawesome.webfonts.shim,paragraphs\/drupal.paragraphs.unpublished,search_autocomplete\/theme.minimal.css,system\/base,views\/views.module,webform\/webform.dialog","theme":"deepfest_theme","theme_token":null},"ajaxTrustedUrl":[],"search_autocomplete":{"search_block":{"source":"\/autocompletion_callbacks_nodes%3A%3Anodes_autocompletion_callback","selector":"#search-keywords input.form-control","minChars":3,"maxSuggestions":10,"autoSubmit":true,"autoRedirect":true,"theme":"minimal","filters":[],"noResult":{"group":{"group_id":"no_results"},"label":"No results found for [search-phrase]. Click to perform full search.","value":"[search-phrase]","link":""},"moreResults":{"group":{"group_id":"more_results"},"label":"View all results containing term [search-phrase].","value":"[search-phrase]","link":""}}},"webform":{"dialog":{"options":{"narrow":{"title":"Narrow","width":600},"normal":{"title":"Normal","width":800},"wide":{"title":"Wide","width":1000}}}},"user":{"uid":0,"permissionsHash":"22f13eb6a69d7e9afa4adc557a3e6a77b0c1d7ed8c8f2c366dbf4ec57f9dc81d"}}</script>
+<script src="./DeepFest _ By Leap _ 06 - 09 February 2023_files/js_rgIngXAnx8aMi3Z5sp43uO9iUdtmVBlIKqsYxrVoGVU.js.download"></script>
+
+  
+
+
+
+
+<div id="drupal-modal" class="ui-front" style="display: none;"></div></body></html>
