@@ -1,0 +1,36 @@
+uuid: b86d9b4a-6206-4ea5-a178-af077c31a5c0
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.terms_conditions.field_body_5
+    - field.field.paragraph.terms_conditions.field_title_8
+    - paragraphs.paragraphs_type.terms_conditions
+  module:
+    - text
+id: paragraph.terms_conditions.default
+targetEntityType: paragraph
+bundle: terms_conditions
+mode: default
+content:
+  field_body_5:
+    type: text_textarea_with_summary
+    weight: 1
+    region: content
+    settings:
+      rows: 9
+      summary_rows: 3
+      placeholder: ''
+      show_summary: false
+    third_party_settings: {  }
+  field_title_8:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+hidden:
+  created: true
+  status: true

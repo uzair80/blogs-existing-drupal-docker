@@ -1,0 +1,23 @@
+uuid: 177fd1f0-ab5a-46e1-b438-60e33df66beb
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_description
+    - paragraphs.paragraphs_type.youtube_video_ideas
+  module:
+    - text
+id: paragraph.youtube_video_ideas.field_description
+field_name: field_description
+entity_type: paragraph
+bundle: youtube_video_ideas
+label: Description
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: false
+  required_summary: false
+field_type: text_with_summary

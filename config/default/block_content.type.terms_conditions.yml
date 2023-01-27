@@ -1,0 +1,8 @@
+uuid: 903c8b44-784f-4a75-be2b-97c1c211e37b
+langcode: en
+status: true
+dependencies: {  }
+id: terms_conditions
+label: 'Terms & Conditions'
+revision: 0
+description: ''

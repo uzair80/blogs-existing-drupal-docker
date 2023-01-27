@@ -1,0 +1,15 @@
+uuid: dc66652f-6682-43d5-b4bf-aaea468fca9f
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.paragraph.preview
+    - field.field.paragraph.pakistan_blogs.field_description_2
+    - paragraphs.paragraphs_type.pakistan_blogs
+id: paragraph.pakistan_blogs.preview
+targetEntityType: paragraph
+bundle: pakistan_blogs
+mode: preview
+content: {  }
+hidden:
+  field_description_2: true

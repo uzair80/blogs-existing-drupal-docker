@@ -1,0 +1,20 @@
+uuid: 4e28cf7c-f3c3-4625-93b8-681c5e4470ad
+langcode: en
+status: false
+dependencies:
+  theme:
+    - blogs_portal
+_core:
+  default_config_hash: 6aOgWsNTXjqrDm98TXSAjP6qd2nCijD1xw45MrnbK-Y
+id: blogs_portal_page_title
+theme: blogs_portal
+region: top_header
+weight: -10
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility: {  }

@@ -1,0 +1,18 @@
+uuid: f5de662c-7393-40d1-ba16-629addd27165
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.terms_conditions
+id: block_content.terms_conditions.info
+field_name: info
+entity_type: block_content
+bundle: terms_conditions
+label: 'Block description'
+description: 'A brief description of your block.'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string
