@@ -1,0 +1,424 @@
+/**
+ * @file
+ * Subtheme specific CSS.
+ */
+
+
+.tahalul-img {
+
+    position: relative;
+
+
+}
+
+.tahalul-img img {
+    width: 100% !important;
+}
+
+.tahalul-info {
+
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    color: white;
+}
+
+.tahalul-info .top-title p {
+
+    font-weight: 700;
+
+}
+
+.tahalul-info .main-title {
+
+    font-size: 4em;
+    font-weight: 800;
+    line-height: 1;
+    padding: 0% 0 3% 0;
+
+}
+
+.tahalul-info .main-title span {
+    color: #71bfe5;
+}
+
+.tahalul-info .my-desc {
+
+    width: 50%;
+    letter-spacing: 0;
+    font-weight: 500;
+    text-align: left;
+    color: #fff;
+}
+
+
+
+
+@media(max-width:576px){
+
+.tahalul-info .my-desc {
+
+ width: 90%;
+
+
+    }
+
+
+
+}
+
+
+
+
+/* 
+Filtering cards and search system
+*/
+
+#block-views-block-tahaluf-block-1 {
+
+    background-color: #f6f8ff;
+
+
+}
+#block-views-block-tahaluf-block-1 .form-row {
+    display: flex !important;
+    flex-direction: row !important;
+    width: 90%;
+    /* justify-content: center !important; */
+    margin: auto !important;
+}
+
+#block-views-block-tahaluf-block-1 .form-row > fieldset {
+
+width: 50%;
+
+}
+
+#block-views-block-tahaluf-block-1 .view-content.row {
+
+    display:flex;
+    flex-direction: row;
+
+
+
+}
+
+#block-views-block-tahaluf-block-1 .view-content.row .views-row {
+
+
+width: 25% !important;
+margin: 1% 0;
+}
+
+.filter-cards {
+
+    /* margin: 3% 5% !important; */
+    display: flex !important;
+    flex-direction: column !important;
+    background-color: #fff;
+    border: 3px solid #e4e8ff;
+    border-radius: 40px;
+    height: 250px;
+    justify-content: space-around;
+    text-align: center;
+
+
+
+}
+
+.filter-cards img {
+    /* margin: auto !important; */
+    width: 100% !important;
+    max-width: 100% !important;
+    object-fit: contain;
+
+}
+
+.filter-cards a {
+
+    padding: .8125em 0;
+    background: #006a5a;
+    border-radius: 0 0 24px 24px;
+    font-family: montserrat, sans-serif;
+    font-size: 1em;
+    display: block;
+    width: 95%;
+    font-weight: 600;
+    /* line-height: 1.25rem; */
+    letter-spacing: 0;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+}
+
+.ex-link {
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center !important;
+    margin-top: 23% !important;
+}
+
+@media(max-width:768px){
+    
+#block-views-block-tahaluf-block-1 .view-content.row .views-row {
+
+ width: 50% !important;
+
+
+}
+}
+
+@media(max-width:576px){
+
+#block-views-block-tahaluf-block-1 .view-content.row .views-row {
+        width: 100%;
+    }
+
+
+}
+
+
+/* Filter Popup */
+
+.form-select {
+
+    border: 2px solid #71bfe5;
+    border-radius: 2.25em;
+    height: 60px;
+}
+.js input.form-autocomplete {
+height: 60px;
+border: 2px solid #006a5a;
+border-radius: 100px;
+padding: 1.25rem 2.375rem;
+}
+
+.ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front {
+
+    border-radius: 20px 20px 20px 20px;
+    background-color: #fff;
+    padding: 0;
+}
+
+.ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front p {
+
+  padding: 5% 0 5% 0;
+  font-family: sans-serif;
+
+
+}
+
+.mypop {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.pop-details {
+    padding-left: 12% !important;
+    padding-right: 12% !important;
+    padding-top: 5%;
+}
+
+.ui-dialog .ui-dialog-content {
+    padding: 0;
+}
+
+.popup-side-img  {
+ 
+   background-image: url("../Images/Side\ Element\ tablet.png");
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: 50%;
+   
+}
+.ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front .views-row {
+padding: 0;
+
+}
+
+.ui-dialog-titlebar.ui-corner-all.ui-widget-header.ui-helper-clearfix {
+    /* display: none;    */
+}
+div#drupal-modal {
+    height: 100%;
+    
+} 
+.mypop {
+
+    height: 60vh;
+
+}
+
+.ui-dialog-titlebar.ui-corner-all.ui-widget-header.ui-helper-clearfix {
+    background: 0 0 !important;
+    border: 0;
+    padding: 0;
+    /* display: none; */
+    /* z-index: -1 !important; */
+    /* position: absolute !important;
+    top: 0; */
+    /* left: 0; */
+    /* right: 0;
+    background-color: #fff;
+    border:0; */
+}   
+span#ui-id-1 {
+    display: none;
+}
+
+button.ui-button.ui-corner-all.ui-widget.ui-button-icon-only.ui-dialog-titlebar-close {
+    position: absolute;
+    top: 35px !important;
+    right: 20px !important;
+    z-index: 999 !important;
+}
+
+/* 
+make it happen
+*/
+
+.start-here-img {
+
+    background-image: url("https://files.tahaluf.com/files/2022-10/footer%20back%20gr%201440.jpg?VersionId=eApjL41.XSCAZ3MEMoKkGNUvy38XR3jE");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+
+}
+.row.start-here-img {
+    padding: 4% 0;
+}
+
+.start-here-block p {
+
+    /* font-family: libre-franklin; */
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.2em;
+    line-height: 1.2em;
+    text-transform: capitalize;
+    color: #19312c;
+    padding: 0 0 0 15%;
+}
+
+.start-here-block p span {
+
+    color: #006a5a;
+
+}
+
+.start-here-link a {
+
+    background-color: #006a5a;
+    border-radius: 127px;
+    text-decoration: none;
+    color: white;
+    font-family: arial;
+    font-size: 1.3em;
+    text-transform: uppercase;
+    padding: 3% 5%;
+
+}
+
+.col-6.start-here-link {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.col-6.start-here-block {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* 
+site-footer
+
+*/
+
+.site-footer {
+    /* background-color: #19312c !important; */
+    /* border-radius: 0 0 140px 0; */
+    background-color: #006a5a !important;
+    padding: 0;
+
+}
+
+.site-footer .container-fluid{
+
+  border-radius: 0 0 140px 0;
+  background-color: #19312c !important;
+  padding: 5% 0;
+}
+
+.site-footer li a {
+
+    color: #fff;
+    font-weight: 700;
+    /* font-family: libre-franklin; */
+    text-transform: capitalize;
+
+}
+
+.site-footer__top.clearfix {
+    display: flex;
+    justify-content: center;
+}
+
+.site-footer__bottom {
+
+border: 0;
+}
+
+
+.field.field--name-field-icons-ima.field--type-image.field--label-hidden.field__items {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding-top: 30%;
+}
+
+.field.field--name-field-icons-ima.field--type-image.field--label-hidden.field__items .field__item{
+    padding: 0 10%;
+}
+.site-footer .block {
+    border: 0;
+}
+
+/* 
+footer_2
+
+*/
+
+
+
+ul.clearfix.nav {
+    display: flex;
+    flex-direction: column;
+}
+
+/* 
+final
+ */
+
+section.row.region.region-footer-fifth {
+    margin: 0;
+    /* background-color: #006a5a; */
+ }
+
+#block-copyright  p {
+    font-weight: 700;
+    color: white;
+    font-size: 1.3em;
+}
+
+
+
+#block-copyright {
+
+text-align: center;
+
+
+}

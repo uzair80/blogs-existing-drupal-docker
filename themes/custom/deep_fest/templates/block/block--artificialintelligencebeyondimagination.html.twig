@@ -1,0 +1,86 @@
+{#
+/**
+ * @file
+ * Default theme implementation to display a block.
+ *
+ * Available variables:
+ * - plugin_id: The ID of the block implementation.
+ * - label: The configured label of the block if visible.
+ * - configuration: A list of the block's configuration values.
+ *   - label: The configured label for the block.
+ *   - label_display: The display settings for the label.
+ *   - provider: The module or other provider that provided this block plugin.
+ *   - Block plugin specific settings will also be stored here.
+ * - content: The content of this block.
+ * - attributes: array of HTML attributes populated by modules, intended to
+ *   be added to the main container tag of this template.
+ *   - id: A valid HTML ID and guaranteed unique.
+ * - title_attributes: Same as attributes, except applied to the main title
+ *   tag that appears in the template.
+ * - content_attributes: Same as attributes, except applied to the main content
+ *   tag that appears in the template.
+ * - title_prefix: Additional output populated by modules, intended to be
+ *   displayed in front of the main title tag that appears in the template.
+ * - title_suffix: Additional output populated by modules, intended to be
+ *   displayed after the main title tag that appears in the template.
+ *
+ * @see template_preprocess_block()
+ *
+ * @ingroup themeable
+ */
+#}
+{%
+  set classes = [
+    'block',
+    'block-' ~ configuration.provider|clean_class,
+    'block-' ~ plugin_id|clean_class,
+  ]
+%}
+{# <div{{ attributes.addClass(classes) }}>
+  {{ title_prefix }}
+  {% if label %}
+    <h2{{ title_attributes }}>{{ label }}</h2>
+  {% endif %}
+  {{ title_suffix }}
+  {% block content %}
+    <div{{ content_attributes.addClass('content') }}>
+      {{ content }}
+    </div>
+  {% endblock %}
+</div> #}
+
+<div{{attributes.addClass(classes)}}>
+	{{ title_prefix }}
+	{% if label %}
+		<h2{{title_attributes}}>{{ label }}</h2>
+	{% endif %}
+	{{ title_suffix }}
+
+{# static video link #}
+
+	<video autoplay muted loop id="myVideo" class = "d-lg-none d-md-none d-sm-none d-xs-block">
+		<source src="https://files.deepfest.com/files/2022-09/DF%20mob_2.mp4?VersionId=rw5PbMjv1obbnb1zMt20i5jeCKe0AEzC" type="video/mp4">
+	</video>
+
+	{# <video autoplay muted loop id="myVideo" class = "d-none d-sm-block">
+		<source src="https://files.deepfest.com/files/2022-09/DF%20tab_3.mp4?VersionId=MVCQHCujEEqAMFBxLwuHbaSAf1LeLjsM" type="video/mp4">
+	</video> #}
+
+	<video autoplay muted loop id="myVideo" class = " d-none d-xs-none d-sm-block d-md-block d-lg-block">
+		<source src="https://files.deepfest.com/files/2022-09/DF%20dt_main_2.mp4?VersionId=05Cc.JVpHc8cUewZPDvx7usJ0DO1jHRG" type="video/mp4" >
+	</video>
+
+	{% block content %}
+		<div{{content_attributes.addClass('content')}}>
+			{# {{ content }} #}
+      <div class = "artificial-intelligence">
+			<h5>{{ content.field_artificial_title }}</h5>
+			{{ content.field_two_buttons }}
+      </div>
+      <div class = "artificial-date">
+			{{ content.body }}
+			<div class = "time">{{ content.field_date }}</div>
+      </div>
+		</div>
+	{% endblock %}
+</div>
