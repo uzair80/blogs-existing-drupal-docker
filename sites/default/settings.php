@@ -784,9 +784,9 @@ $databases['default']['default'] = array (
   'namespace' => 'Drupal\\Core\\Database\\Driver\\mysql',
   'driver' => 'mysql',
 );
-#$settings['config_sync_directory'] = 'sites/default/files/config_Z91Y-ztkKa8dW4kGWGEP_WZoKDkKL2TReISY_GEfte3eRYnkKAF2KH-7_4Xw0LaBaISahG8BkQ/sync';
+$settings['config_sync_directory'] = 'sites/default/files/config_Z91Y-ztkKa8dW4kGWGEP_WZoKDkKL2TReISY_GEfte3eRYnkKAF2KH-7_4Xw0LaBaISahG8BkQ/sync';
 
-$settings['config_sync_directory'] = 'config/default';
+#$settings['config_sync_directory'] = 'config/default';
  
 
  if (file_exists($app_root . '/' . $site_path . '/settings.local.php')) {
