@@ -1,0 +1,25 @@
+uuid: 80b600b0-388c-4e78-8f10-f25e7917a81e
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.youtube_video_ideas
+    - field.field.block_content.youtube_video_ideas.field_youtube_ideas_paragraph
+  module:
+    - entity_reference_revisions
+id: block_content.youtube_video_ideas.default
+targetEntityType: block_content
+bundle: youtube_video_ideas
+mode: default
+content:
+  field_youtube_ideas_paragraph:
+    type: entity_reference_revisions_entity_view
+    label: hidden
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    weight: 1
+    region: content
+hidden:
+  langcode: true

@@ -1,0 +1,18 @@
+uuid: 0589c4d7-c388-4849-8744-31eb5049c292
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.blogs_you_may_like
+id: node.blogs_you_may_like.title
+field_name: title
+entity_type: node
+bundle: blogs_you_may_like
+label: 'Blogs You May Like'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

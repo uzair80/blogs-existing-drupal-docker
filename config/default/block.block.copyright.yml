@@ -1,0 +1,30 @@
+uuid: 6ed3c98a-dfe4-4d9e-a64a-02ef1ee0fa84
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:copyright:7d173df5-2b23-4f45-8948-b6f4c3ae00d0'
+  module:
+    - block_content
+    - system
+  theme:
+    - blogs_portal
+id: copyright
+theme: blogs_portal
+region: footer_fifth
+weight: -9
+provider: null
+plugin: 'block_content:7d173df5-2b23-4f45-8948-b6f4c3ae00d0'
+settings:
+  id: 'block_content:7d173df5-2b23-4f45-8948-b6f4c3ae00d0'
+  label: Copyright
+  label_display: '0'
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    pages: '<front>'

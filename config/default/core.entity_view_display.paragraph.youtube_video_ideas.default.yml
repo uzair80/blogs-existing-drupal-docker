@@ -1,0 +1,43 @@
+uuid: 364a4483-0916-4c17-be1a-d80619349448
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.youtube_video_ideas.field_description
+    - field.field.paragraph.youtube_video_ideas.field_heading_1
+    - field.field.paragraph.youtube_video_ideas.field_images
+    - paragraphs.paragraphs_type.youtube_video_ideas
+  module:
+    - image
+    - text
+id: paragraph.youtube_video_ideas.default
+targetEntityType: paragraph
+bundle: youtube_video_ideas
+mode: default
+content:
+  field_description:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 1
+    region: content
+  field_heading_1:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  field_images:
+    type: image
+    label: hidden
+    settings:
+      image_link: ''
+      image_style: ''
+      image_loading:
+        attribute: lazy
+    third_party_settings: {  }
+    weight: 2
+    region: content
+hidden: {  }

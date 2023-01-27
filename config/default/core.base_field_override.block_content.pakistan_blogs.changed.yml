@@ -1,0 +1,18 @@
+uuid: 460a01f3-bd54-40c5-be2d-336426197a99
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.pakistan_blogs
+id: block_content.pakistan_blogs.changed
+field_name: changed
+entity_type: block_content
+bundle: pakistan_blogs
+label: Changed
+description: 'The time that the custom block was last edited.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: changed

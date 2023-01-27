@@ -1,0 +1,18 @@
+uuid: ef3327c8-6d98-4d03-a0ac-f40b99381b84
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.youtube_video_ideas
+id: block_content.youtube_video_ideas.changed
+field_name: changed
+entity_type: block_content
+bundle: youtube_video_ideas
+label: Changed
+description: 'The time that the custom block was last edited.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: changed

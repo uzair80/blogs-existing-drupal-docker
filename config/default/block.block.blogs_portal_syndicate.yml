@@ -1,0 +1,23 @@
+uuid: 82a53a0d-ea59-465f-9179-0a016d21aed4
+langcode: en
+status: false
+dependencies:
+  module:
+    - node
+  theme:
+    - blogs_portal
+_core:
+  default_config_hash: 0gq3VPg-_UM69FCCWurLFIrrnIjC2HLKhwo9iQNtcUo
+id: blogs_portal_syndicate
+theme: blogs_portal
+region: top_header
+weight: -9
+provider: null
+plugin: node_syndicate_block
+settings:
+  id: node_syndicate_block
+  label: 'RSS feed'
+  label_display: '0'
+  provider: node
+  block_count: 10
+visibility: {  }

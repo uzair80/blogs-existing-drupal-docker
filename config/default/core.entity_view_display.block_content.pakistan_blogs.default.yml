@@ -1,0 +1,25 @@
+uuid: 044b9386-b967-4951-bf38-a96d90eb719f
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.pakistan_blogs
+    - field.field.block_content.pakistan_blogs.field_pakistan_blogs
+  module:
+    - entity_reference_revisions
+id: block_content.pakistan_blogs.default
+targetEntityType: block_content
+bundle: pakistan_blogs
+mode: default
+content:
+  field_pakistan_blogs:
+    type: entity_reference_revisions_entity_view
+    label: hidden
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    weight: 1
+    region: content
+hidden:
+  langcode: true

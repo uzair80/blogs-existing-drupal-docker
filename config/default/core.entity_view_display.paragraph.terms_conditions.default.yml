@@ -1,0 +1,31 @@
+uuid: de14d8e4-d5b6-4add-a425-7dab12d29fa5
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.terms_conditions.field_body_5
+    - field.field.paragraph.terms_conditions.field_title_8
+    - paragraphs.paragraphs_type.terms_conditions
+  module:
+    - text
+id: paragraph.terms_conditions.default
+targetEntityType: paragraph
+bundle: terms_conditions
+mode: default
+content:
+  field_body_5:
+    type: text_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 1
+    region: content
+  field_title_8:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden: {  }

@@ -1,0 +1,10 @@
+uuid: 94d2936e-1126-4ece-b56c-02c88bae7441
+langcode: en
+status: true
+dependencies: {  }
+id: youtube_video_ideas
+label: 'Youtube Video Ideas'
+icon_uuid: null
+icon_default: null
+description: ''
+behavior_plugins: {  }

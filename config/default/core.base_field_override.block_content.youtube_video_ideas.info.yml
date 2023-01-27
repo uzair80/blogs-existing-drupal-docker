@@ -1,0 +1,18 @@
+uuid: ad1a6fd1-575a-4618-b360-d4534edac7b0
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.youtube_video_ideas
+id: block_content.youtube_video_ideas.info
+field_name: info
+entity_type: block_content
+bundle: youtube_video_ideas
+label: 'Block description'
+description: 'A brief description of your block.'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

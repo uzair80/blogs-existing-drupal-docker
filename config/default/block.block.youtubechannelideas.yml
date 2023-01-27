@@ -1,0 +1,30 @@
+uuid: 16530b46-a740-48df-9dff-3d727695cda0
+langcode: en
+status: false
+dependencies:
+  content:
+    - 'block_content:youtube_video_ideas:ce725dbe-2b09-4a37-8b39-a385a575f635'
+  module:
+    - block_content
+    - system
+  theme:
+    - blogs_portal
+id: youtubechannelideas
+theme: blogs_portal
+region: content
+weight: -5
+provider: null
+plugin: 'block_content:ce725dbe-2b09-4a37-8b39-a385a575f635'
+settings:
+  id: 'block_content:ce725dbe-2b09-4a37-8b39-a385a575f635'
+  label: 'Youtube Channel Ideas'
+  label_display: visible
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    pages: '<front>'

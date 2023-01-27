@@ -1,0 +1,23 @@
+uuid: e174c32f-e513-42fb-a4a1-5250708e4649
+langcode: en
+status: false
+dependencies:
+  module:
+    - search
+  theme:
+    - blogs_portal
+_core:
+  default_config_hash: imMyHD6LYci0gtXq56qr9ZKGHzbEG9uFydrN5EhKtSU
+id: blogs_portal_search_form_wide
+theme: blogs_portal
+region: secondary_menu
+weight: -9
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Search form (wide)'
+  label_display: '0'
+  provider: search
+  page_id: ''
+visibility: {  }

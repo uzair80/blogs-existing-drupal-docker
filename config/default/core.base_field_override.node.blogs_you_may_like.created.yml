@@ -1,0 +1,18 @@
+uuid: fc113859-99b4-4653-8a6f-843b6dacda5c
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.blogs_you_may_like
+id: node.blogs_you_may_like.created
+field_name: created
+entity_type: node
+bundle: blogs_you_may_like
+label: 'Authored on'
+description: 'The time that the node was created.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: created
